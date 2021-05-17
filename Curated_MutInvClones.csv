@@ -1,0 +1,1203 @@
+﻿mut,pop origin,white/blue,Sample,Evidence,Position,Mutation,Annotation,Gene,Description
+S,G5,,C1,RA,2030092,(G)7>6,coding(792/1269nt),PA14_RS09470>,UDPâ€‘Nâ€‘acetylâ€‘Dâ€‘mannosamine dehydrogenase
+S,G5,,C1,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+L,B5,,C10,RA,309340,C>T,T41T(ACG>ACA),PA14_RS01390<,XRE family transcriptional regulator
+L,B5,,C10,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+L,B5,,C10,RA,1015333,(G)6>7,intergenic(â€‘56/â€‘138),PA14_RS04745</>PA14_RS04750,hypothetical protein/protein kinase
+L,B5,,C10,RA,1119361,A>G,N488S(AAC>AGC),PA14_RS05245>,cytochrome ubiquinol oxidase subunit I
+L,B5,,C10,RA,1129732,A>G,intergenic(+165/â€‘169),PA14_RS05285>/>PA14_RS05290,hypothetical protein/transcriptional regulator
+L,B5,,C10,RA,1406447,A>G,Q268R(CAG>CGG),PA14_RS06585>,methylâ€‘accepting chemotaxis protein
+L,B5,,C10,RA,1542593,(G)7>8,coding(10/756nt),PA14_RS07210<,DeoR family transcriptional regulator
+L,B5,,C10,RA,1758616,A>G,T158A(ACG>GCG),PA14_RS08195>,phosphonate metabolism protein PhnP
+L,B5,,C10,RA,2717740,A>G,intergenic(â€‘2/+275),PA14_RS12795</<PA14_RS12800,hypothetical protein/DNA repair protein RadC
+L,B5,,C10,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+L,B5,,C10,RA,2927599,T>C,H161R(CAC>CGC),cas6f<,type Iâ€‘F CRISPRâ€‘associated endoribonuclease Cas6/Csy4
+L,B5,,C10,RA,3237470,(C)6>7,coding(727/1245nt),PA14_RS14785>,adenylate cyclase
+L,B5,,C10,RA,3720273,G>A,R122C(CGT>TGT),PA14_RS16900<,phosphoenolpyruvate synthase
+L,B5,,C10,RA,3913073,T>C,T86A(ACC>GCC),PA14_RS17855<,succinylâ€‘CoA ligase subunit beta
+L,B5,,C10,RA,4743793,C>T,A73T(GCC>ACC),PA14_RS21775<,OmpA family lipoprotein
+L,B5,,C10,RA,5348824,T>C,Y271Y(TAT>TAC),PA14_RS24515>,ATPâ€‘dependent endonuclease
+L,B5,,C10,RA,5482501,(C)8>9,intergenic(â€‘92/+165),PA14_RS25090</<PA14_RS25095,VOC family protein/hypothetical protein
+L,B5,,C10,RA,5821672,T>C,D467G(GAC>GGC),PA14_RS26710<,DNA mismatch repair protein MutL
+L,B5,,C10,RA,5943657,C>T,intergenic(â€‘114/+111),PA14_RS27165</<PA14_RS27170,glutamate synthase large subunit/hypothetical protein
+L,B5,,C10,RA,6193161,T>C,N184S(AAC>AGC),PA14_RS28305<,uroporphyrinogen III methyltransferase
+L,B5,,C10,RA,6231409,G>A,S21S(AGC>AGT),PA14_RS28475<,haloacid dehalogenaseâ€‘like hydrolase
+L,B5,,C11,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+L,B5,,C11,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+L,B1,,C12,RA,309340,C>T,T41T(ACG>ACA),PA14_RS01390<,XRE family transcriptional regulator
+L,B1,,C12,RA,336883,G>A,G186D(GGT>GAT),PA14_RS01535>,3â€‘guanidinopropionate transporter
+L,B1,,C12,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+L,B1,,C12,RA,1015333,(G)6>7,intergenic(â€‘56/â€‘138),PA14_RS04745</>PA14_RS04750,hypothetical protein/protein kinase
+L,B1,,C12,RA,1119361,A>G,N488S(AAC>AGC),PA14_RS05245>,cytochrome ubiquinol oxidase subunit I
+L,B1,,C12,RA,1758616,A>G,T158A(ACG>GCG),PA14_RS08195>,phosphonate metabolism protein PhnP
+L,B1,,C12,RA,2178615,C>T,A97A(GCC>GCT),PA14_RS10110>,FADâ€‘binding oxidoreductase
+L,B1,,C12,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+L,B1,,C12,RA,2927599,T>C,H161R(CAC>CGC),cas6f<,type Iâ€‘F CRISPRâ€‘associated endoribonuclease Cas6/Csy4
+L,B1,,C12,RA,3720273,G>A,R122C(CGT>TGT),PA14_RS16900<,phosphoenolpyruvate synthase
+L,B1,,C12,RA,3913073,T>C,T86A(ACC>GCC),PA14_RS17855<,succinylâ€‘CoA ligase subunit beta
+L,B1,,C12,RA,4482308,G>A,Q45*(CAG>TAG),flgF<,flagellar basalâ€‘body rod protein FlgF
+L,B1,,C12,RA,5235110,C>T,P278S(CCG>TCG),pilB>,type IVâ€‘A pilus assembly ATPase PilB
+L,B1,,C12,RA,5348824,T>C,Y271Y(TAT>TAC),PA14_RS24515>,ATPâ€‘dependent endonuclease
+L,B1,,C12,RA,5482501,(C)8>9,intergenic(â€‘92/+165),PA14_RS25090</<PA14_RS25095,VOC family protein/hypothetical protein
+L,B1,,C12,RA,5821672,T>C,D467G(GAC>GGC),PA14_RS26710<,DNA mismatch repair protein MutL
+L,B1,,C12,RA,5943657,C>T,intergenic(â€‘114/+111),PA14_RS27165</<PA14_RS27170,glutamate synthase large subunit/hypothetical protein
+L,B1,,C12,RA,6231409,G>A,S21S(AGC>AGT),PA14_RS28475<,haloacid dehalogenaseâ€‘like hydrolase
+L,B1,,C13,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+L,B1,,C14,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+L,B1,,C14,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,A5,,C18,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,A5,,C19,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+S,A5,,C19,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,G5,,C2,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,G5,,C2,RA,4096152,T>C,H213R(CAC>CGC),PA14_RS18695<,LysR family transcriptional regulator
+S,A5,,C20,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+S,A5,,C20,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,A5,,C21,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+S,A5,,C21,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,A5,,C22,RA,62601,C>T,R164H(CGC>CAC),PA14_RS00255<,hypothetical protein
+S,A5,,C22,RA,375355,A>G,L88P(CTG>CCG),PA14_RS01710<,histone deacetylase family protein
+S,A5,,C22,RA,464793,C>T,intergenic(+9/â€‘38),PA14_RS02165>/>PA14_RS02170,protein PilG/twoâ€‘component system response regulator
+S,A5,,C22,RA,582163,A>G,V136A(GTT>GCT),PA14_RS02660<,cytochrome c
+S,A5,,C22,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+S,A5,,C22,RA,813405,T>C,intergenic(â€‘270/+193),PA14_RS03845</<PA14_RS30085,phenazine biosynthesis protein/methyltransferase
+S,A5,,C22,RA,992075,T>C,V64A(GTG>GCG),PA14_RS04625>,67â€‘dimethylâ€‘8â€‘ribityllumazine synthase
+S,A5,,C22,RA,1150897,T>C,T143A(ACG>GCG),PA14_RS05385<,DUF4123 domainâ€‘containing protein
+S,A5,,C22,RA,1276051,C>T,G9G(GGC>GGT),PA14_RS05990>,DUF2946 domainâ€‘containing protein
+S,A5,,C22,RA,1298956,C>T,R422C(CGC>TGC),PA14_RS06100>,IMP dehydrogenase
+S,A5,,C22,RA,2138308,C>T,C947C(TGC>TGT),PA14_RS09915>,PbsX family transcriptional regulator
+S,A5,,C22,RA,2705564,C>T,G29D(GGC>GAC),PA14_RS12725<,ATPase
+S,A5,,C22,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,A5,,C22,RA,2797638,C>T,A90A(GCG>GCA),antA<,anthranilate 12â€‘dioxygenase large subunit
+S,A5,,C22,RA,2888039,C>T,A642V(GCC>GTC),gcvP>,glycine dehydrogenase (decarboxylating)
+S,A5,,C22,RA,3255982,C>T,A312V(GCG>GTG),treZ>,maltoâ€‘oligosyltrehalose trehalohydrolase
+S,A5,,C22,RA,3277295,G>A,intergenic(â€‘7/+137),PA14_RS14955</<PA14_RS14960,alphaâ€‘14â€‘glucanâ€‘â€‘maltoseâ€‘1â€‘phosphate maltosyltransferase/Ku protein
+S,A5,,C22,RA,3482105,T>C,V327A(GTT>GCT),brnQ>,branchedâ€‘chain amino acid transport system 3 carrier protein
+S,A5,,C22,RA,4436587,C>T,P386L(CCG>CTG),PA14_RS20260>,GGDEF domainâ€‘containing protein
+S,A5,,C22,RA,4542238,T>C,S232G(AGC>GGC),PA14_RS20770<,enoylâ€‘CoA hydratase/isomerase family protein
+S,A5,,C22,RA,4721938,A>G,T271A(ACC>GCC),PA14_RS21685>,serine/threonine dehydratase
+S,A5,,C22,RA,5203891,T>C,V470A(GTC>GCC),PA14_RS23820>,outer membrane porin OprD family
+S,A5,,C22,RA,5482501,(C)8>9,intergenic(â€‘92/+165),PA14_RS25090</<PA14_RS25095,VOC family protein/hypothetical protein
+S,A5,,C22,RA,5566754,T>C,T60A(ACC>GCC),PA14_RS25500<,alanine transaminase
+S,A5,,C22,RA,5596224,G>A,G395G(GGC>GGT),pnp<,polyribonucleotide nucleotidyltransferase
+S,A5,,C22,RA,5999670,(C)6>7,coding(2066/2238nt),PA14_RS27425<,hypothetical protein
+S,A5,,C22,RA,6202476,(C)7>8,coding(510/3525nt),PA14_RS28335<,hypothetical protein
+S,A5,,C23,RA,62601,C>T,R164H(CGC>CAC),PA14_RS00255<,hypothetical protein
+S,A5,,C23,RA,464793,C>T,intergenic(+9/â€‘38),PA14_RS02165>/>PA14_RS02170,protein PilG/twoâ€‘component system response regulator
+S,A5,,C23,RA,582163,A>G,V136A(GTT>GCT),PA14_RS02660<,cytochrome c
+S,A5,,C23,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+S,A5,,C23,RA,1050468,(G)5>6,coding(70/891nt),PA14_RS04920>,alpha/beta hydrolase
+S,A5,,C23,RA,1150897,T>C,T143A(ACG>GCG),PA14_RS05385<,DUF4123 domainâ€‘containing protein
+S,A5,,C23,RA,1416843,G>A,G415D(GGC>GAC),lysS>,lysineâ€‘â€‘tRNA ligase
+S,A5,,C23,RA,1592499,G>A,R454C(CGC>TGC),PA14_RS07430<,glycosyl transferase
+S,A5,,C23,RA,1775362,A>G,D230G(GAC>GGC),PA14_RS08285>,HlyD family secretion protein
+S,A5,,C23,RA,1992511,C>T,A69V(GCG>GTG),PA14_RS09305>,carbohydrate ABC transporter substrateâ€‘binding protein
+S,A5,,C23,RA,2340080,C>T,intergenic(+205/â€‘44),pyrF>/>PA14_RS10885,orotidineâ€‘5'â€‘phosphate decarboxylase/hypothetical protein
+S,A5,,C23,RA,2620624,T>C,S33G(AGC>GGC),PA14_RS12330<,arginylâ€‘tRNAâ€‘protein transferase
+S,A5,,C23,RA,2705564,C>T,G29D(GGC>GAC),PA14_RS12725<,ATPase
+S,A5,,C23,RA,2888039,C>T,A642V(GCC>GTC),gcvP>,glycine dehydrogenase (decarboxylating)
+S,A5,,C23,RA,3104312,(G)6>7,coding(320/1452nt),PA14_RS14195>,chitinase
+S,A5,,C23,RA,3322478,C>T,A149V(GCC>GTC),PA14_RS15190>,DUF4142 domainâ€‘containing protein
+S,A5,,C23,RA,3482105,T>C,V327A(GTT>GCT),brnQ>,branchedâ€‘chain amino acid transport system 3 carrier protein
+S,A5,,C23,RA,3643570,C>T,G227D(GGC>GAC),PA14_RS16555<,protease SohB
+S,A5,,C23,RA,3882374,A>G,L138S(TTG>TCG),PA14_RS17710<,AMPâ€‘binding protein
+S,A5,,C23,RA,3935319,T>C,N400N(AAT>AAC),PA14_RS17965>,FADâ€‘dependent oxidoreductase
+S,A5,,C23,RA,4046233,G>A,A206V(GCC>GTC),PA14_RS18460<,hypothetical protein
+S,A5,,C23,RA,4053601,(C)5>4,coding(81/741nt),motC<,flagellar motor protein
+S,A5,,C23,RA,4436587,C>T,P386L(CCG>CTG),PA14_RS20260>,GGDEF domainâ€‘containing protein
+S,A5,,C23,RA,4542238,T>C,S232G(AGC>GGC),PA14_RS20770<,enoylâ€‘CoA hydratase/isomerase family protein
+S,A5,,C23,RA,4721938,A>G,T271A(ACC>GCC),PA14_RS21685>,serine/threonine dehydratase
+S,A5,,C23,RA,4893576,(C)6>7,coding(517/1206nt),PA14_RS22440>,hypothetical protein
+S,A5,,C23,RA,5116458,C>T,A482T(GCC>ACC),PA14_RS23405<,penicillinâ€‘binding protein 3
+S,A5,,C23,RA,5203891,T>C,V470A(GTC>GCC),PA14_RS23820>,outer membrane porin OprD family
+S,A5,,C23,RA,5566754,T>C,T60A(ACC>GCC),PA14_RS25500<,alanine transaminase
+S,A5,,C23,RA,5596224,G>A,G395G(GGC>GGT),pnp<,polyribonucleotide nucleotidyltransferase
+S,A5,,C23,RA,5708234,G>A,G502S(GGC>AGC),PA14_RS26180>,diguanylate cyclase response regulator
+S,A5,,C23,RA,5999670,(C)6>7,coding(2066/2238nt),PA14_RS27425<,hypothetical protein
+S,A5,,C23,RA,6509706,(C)6>7,coding(1790/2025nt),PA14_RS29765<,C4â€‘dicarboxylate ABC transporter
+L,H4,,C3,RA,2034690,C>T,R160C(CGT>TGT),PA14_RS09485>,zincâ€‘binding dehydrogenase
+L,H4,,C3,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+L,H4,,C4,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+L,H4,,C4,RA,4664820,C>T,intergenic(â€‘47/+75),PA14_RS21420</<PA14_RS21425,alanineâ€‘â€‘tRNA ligase/lowâ€‘specificity Lâ€‘threonine aldolase
+L,H4,,C5,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+L,H4,,C5,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+L,H4,,C5,RA,4661551,C>T,G151S(GGC>AGC),PA14_RS21415<,aspartokinase
+S,G6,,C6,RA,2028245,#NAME?,coding(162/1137nt),PA14_RS09465>,UDPâ€‘Nâ€‘acetylglucosamine 2â€‘epimerase (nonâ€‘hydrolyzing)
+S,G6,,C6,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+L,B5,,C7,JC,2644423,(TCCGT)6>7,intergenic(+96/â€‘60),PA14_RS12450>/>PA14_RS12455,aliphatic sulfonates ABC transporter substrateâ€‘binding protein/aliphatic sulfonates ABC transporter substrateâ€‘binding protein
+L,B5,,C7,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+L,B5,,C7,RA,6243891,C>A,intergenic(â€‘107/+44),PA14_RS28520</<alr,transcriptional regulator/alanine racemase
+L,B5,,C8,RA,309340,C>T,T41T(ACG>ACA),PA14_RS01390<,XRE family transcriptional regulator
+L,B5,,C8,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+L,B5,,C8,RA,754326,A>G,T1329A(ACC>GCC),rpoC>,DNAâ€‘directed RNA polymerase subunit beta'
+L,B5,,C8,RA,1015333,(G)6>7,intergenic(â€‘56/â€‘138),PA14_RS04745</>PA14_RS04750,hypothetical protein/protein kinase
+L,B5,,C8,RA,1119361,A>G,N488S(AAC>AGC),PA14_RS05245>,cytochrome ubiquinol oxidase subunit I
+L,B5,,C8,RA,1758616,A>G,T158A(ACG>GCG),PA14_RS08195>,phosphonate metabolism protein PhnP
+L,B5,,C8,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+L,B5,,C8,RA,2927599,T>C,H161R(CAC>CGC),cas6f<,type Iâ€‘F CRISPRâ€‘associated endoribonuclease Cas6/Csy4
+L,B5,,C8,RA,3720273,G>A,R122C(CGT>TGT),PA14_RS16900<,phosphoenolpyruvate synthase
+L,B5,,C8,RA,3913073,T>C,T86A(ACC>GCC),PA14_RS17855<,succinylâ€‘CoA ligase subunit beta
+L,B5,,C8,RA,4264446,(C)6>7,intergenic(+107/â€‘58),PA14_RS19470>/>PA14_RS19475,MFS transporter/AraC family transcriptional regulator
+L,B5,,C8,RA,5348824,T>C,Y271Y(TAT>TAC),PA14_RS24515>,ATPâ€‘dependent endonuclease
+L,B5,,C8,RA,5424084,G>A,S865S(TCC>TCT),PA14_RS24855<,multidrug efflux RND transporter permease subunit
+L,B5,,C8,RA,5482501,(C)8>9,intergenic(â€‘92/+165),PA14_RS25090</<PA14_RS25095,VOC family protein/hypothetical protein
+L,B5,,C8,RA,5821672,T>C,D467G(GAC>GGC),PA14_RS26710<,DNA mismatch repair protein MutL
+L,B5,,C8,RA,5943657,C>T,intergenic(â€‘114/+111),PA14_RS27165</<PA14_RS27170,glutamate synthase large subunit/hypothetical protein
+L,B5,,C8,RA,6202476,(C)7>8,coding(510/3525nt),PA14_RS28335<,hypothetical protein
+L,B5,,C8,RA,6231409,G>A,S21S(AGC>AGT),PA14_RS28475<,haloacid dehalogenaseâ€‘like hydrolase
+L,B5,,C9,JC,2644423,(TCCGT)6>7,intergenic(+96/â€‘60),PA14_RS12450>/>PA14_RS12455,aliphatic sulfonates ABC transporter substrateâ€‘binding protein/aliphatic sulfonates ABC transporter substrateâ€‘binding protein
+L,B5,,C9,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+L,B5,,C9,RA,5919541,A>C,T153P(ACC>CCC),PA14_RS27090>,K+/H+ antiporter NhaP2
+S,E4,w,KBH755,RA,27388,A>G,E219E(GAA>GAG),PA14_RS00125>,shikimate dehydrogenase
+S,E4,w,KBH755,RA,62601,C>T,R164H(CGC>CAC),PA14_RS00255<,hypothetical protein
+S,E4,w,KBH755,RA,287624,C>T,E217K(GAA>AAA),PA14_RS01305<,type VI secretion system tip protein VgrG
+S,E4,w,KBH755,RA,464793,C>T,intergenic(+9/â€‘38),PA14_RS02165>/>PA14_RS02170,protein PilG/twoâ€‘component system response regulator
+S,E4,w,KBH755,RA,582163,A>G,V136A(GTT>GCT),PA14_RS02660<,cytochrome c
+S,E4,w,KBH755,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+S,E4,w,KBH755,RA,791604,(C)5>4,coding(1584/5430nt),PA14_RS03770>,nonâ€‘ribosomal peptide synthetase
+S,E4,w,KBH755,RA,978229,C>T,G175G(GGC>GGT),PA14_RS04540>,transcriptional regulator FeaR
+S,E4,w,KBH755,RA,1150897,T>C,T143A(ACG>GCG),PA14_RS05385<,DUF4123 domainâ€‘containing protein
+S,E4,w,KBH755,RA,1407079,C>T,P479S(CCG>TCG),PA14_RS06585>,methylâ€‘accepting chemotaxis protein
+S,E4,w,KBH755,RA,1543715,T>C,D204G(GAC>GGC),glpK<,glycerol kinase
+S,E4,w,KBH755,RA,1839958,(G)5>6,coding(170/2847nt),PA14_RS08545<,RNA polymeraseâ€‘associated protein RapA
+S,E4,w,KBH755,RA,2705564,C>T,G29D(GGC>GAC),PA14_RS12725<,ATPase
+S,E4,w,KBH755,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,E4,w,KBH755,RA,2888039,C>T,A642V(GCC>GTC),gcvP>,glycine dehydrogenase (decarboxylating)
+S,E4,w,KBH755,RA,2986114,A>G,intergenic(+119/+45),PA14_RS13715>/<PA14_RS13720,nonâ€‘ribosomal peptide synthetase/TonBâ€‘dependent siderophore receptor
+S,E4,w,KBH755,RA,3170764,C>G,A207P(GCC>CCC),PA14_RS14500<,biofilm formation protein PslG
+S,E4,w,KBH755,RA,3402314,G>A,P400S(CCG>TCG),PA14_RS15500<,glutamine synthetase
+S,E4,w,KBH755,RA,3470007,G>A,G122S(GGC>AGC),PA14_RS15810>,DNAâ€‘binding response regulator
+S,E4,w,KBH755,RA,3482105,T>C,V327A(GTT>GCT),brnQ>,branchedâ€‘chain amino acid transport system 3 carrier protein
+S,E4,w,KBH755,RA,3867614,(G)5>6,intergenic(â€‘60/+128),kdpF</<PA14_RS17640,K(+)â€‘transporting ATPase subunit F/acylâ€‘CoA dehydrogenase
+S,E4,w,KBH755,RA,4234961,G>A,R289H(CGC>CAC),PA14_RS19335>,hypothetical protein
+S,E4,w,KBH755,RA,4324966,C>T,P317P(CCC>CCT),PA14_RS19740>,hypothetical protein
+S,E4,w,KBH755,RA,4436587,C>T,P386L(CCG>CTG),PA14_RS20260>,GGDEF domainâ€‘containing protein
+S,E4,w,KBH755,RA,4542238,T>C,S232G(AGC>GGC),PA14_RS20770<,enoylâ€‘CoA hydratase/isomerase family protein
+S,E4,w,KBH755,RA,4721938,A>G,T271A(ACC>GCC),PA14_RS21685>,serine/threonine dehydratase
+S,E4,w,KBH755,RA,5019602,G>A,R67Q(CGG>CAG),PA14_RS22945>,universal stress protein A
+S,E4,w,KBH755,RA,5120911,Î”1bp,coding(230/849nt),rsmI<,rRNA (cytidineâ€‘2'â€‘Oâ€‘)â€‘methyltransferase
+S,E4,w,KBH755,RA,5186759,T>C,D592G(GAC>GGC),PA14_RS23760<,hypothetical protein
+S,E4,w,KBH755,RA,5200257,T>C,Y144H(TAC>CAC),PA14_RS23810>,transcriptional regulator
+S,E4,w,KBH755,RA,5203891,T>C,V470A(GTC>GCC),PA14_RS23820>,outer membrane porin OprD family
+S,E4,w,KBH755,RA,5566754,T>C,T60A(ACC>GCC),PA14_RS25500<,alanine transaminase
+S,E4,w,KBH755,RA,5596224,G>A,G395G(GGC>GGT),pnp<,polyribonucleotide nucleotidyltransferase
+S,E4,w,KBH755,RA,5625610,G>A,intergenic(â€‘174/â€‘101),PA14_RS25775</>PA14_RS25780,ubiquinoneâ€‘binding protein/SsrAâ€‘binding protein
+S,E4,w,KBH755,RA,5971823,A>G,T115A(ACC>GCC),PA14_RS27280>,TetR family transcriptional regulator
+S,E4,w,KBH755,RA,5999670,(C)6>7,coding(2066/2238nt),PA14_RS27425<,hypothetical protein
+S,E4,w,KBH755,RA,6094430,G>A,G449S(GGC>AGC),arcD>,arginineâ€‘ornithine antiporter
+S,A2,W,KBH756,RA,62601,C>T,R164H(CGC>CAC),PA14_RS00255<,hypothetical protein
+S,A2,W,KBH756,RA,464793,C>T,intergenic(+9/â€‘38),PA14_RS02165>/>PA14_RS02170,protein PilG/twoâ€‘component system response regulator
+S,A2,W,KBH756,RA,582163,A>G,V136A(GTT>GCT),PA14_RS02660<,cytochrome c
+S,A2,W,KBH756,RA,652582,C>T,G149G(GGC>GGT),tsaD>,tRNA (adenosine(37)â€‘N6)â€‘threonylcarbamoyltransferase complex transferase subunit TsaD
+S,A2,W,KBH756,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+S,A2,W,KBH756,RA,1150897,T>C,T143A(ACG>GCG),PA14_RS05385<,DUF4123 domainâ€‘containing protein
+S,A2,W,KBH756,RA,1298224,C>T,R178C(CGC>TGC),PA14_RS06100>,IMP dehydrogenase
+S,A2,W,KBH756,RA,1520889,T>C,S286G(AGC>GGC),PA14_RS07115<,FMNâ€‘binding glutamate synthase family protein
+S,A2,W,KBH756,RA,2510850,C>T,A279V(GCC>GTC),PA14_RS11830>,24â€‘dienoylâ€‘CoA reductase
+S,A2,W,KBH756,RA,2705564,C>T,G29D(GGC>GAC),PA14_RS12725<,ATPase
+S,A2,W,KBH756,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,A2,W,KBH756,RA,2888039,C>T,A642V(GCC>GTC),gcvP>,glycine dehydrogenase (decarboxylating)
+S,A2,W,KBH756,RA,3402314,G>A,P400S(CCG>TCG),PA14_RS15500<,glutamine synthetase
+S,A2,W,KBH756,RA,3482105,T>C,V327A(GTT>GCT),brnQ>,branchedâ€‘chain amino acid transport system 3 carrier protein
+S,A2,W,KBH756,RA,4069264,T>C,K164R(AAG>AGG),fliP<,flagellar biosynthetic protein FliP
+S,A2,W,KBH756,RA,4436587,C>T,P386L(CCG>CTG),PA14_RS20260>,GGDEF domainâ€‘containing protein
+S,A2,W,KBH756,RA,4542238,T>C,S232G(AGC>GGC),PA14_RS20770<,enoylâ€‘CoA hydratase/isomerase family protein
+S,A2,W,KBH756,RA,4721938,A>G,T271A(ACC>GCC),PA14_RS21685>,serine/threonine dehydratase
+S,A2,W,KBH756,RA,4927462,T>C,T991A(ACC>GCC),PA14_RS22575<,hemagglutinin
+S,A2,W,KBH756,RA,5073994,T>C,D117G(GAC>GGC),PA14_RS23205<,class I SAMâ€‘dependent methyltransferase
+S,A2,W,KBH756,RA,5116421,C>T,G494D(GGC>GAC),PA14_RS23405<,penicillinâ€‘binding protein 3
+S,A2,W,KBH756,RA,5203891,T>C,V470A(GTC>GCC),PA14_RS23820>,outer membrane porin OprD family
+S,A2,W,KBH756,RA,5566754,T>C,T60A(ACC>GCC),PA14_RS25500<,alanine transaminase
+S,A2,W,KBH756,RA,5596224,G>A,G395G(GGC>GGT),pnp<,polyribonucleotide nucleotidyltransferase
+S,A2,W,KBH756,RA,5624612,A>G,E169E(GAA>GAG),PA14_RS25765>,outer membrane protein assembly factor BamE
+S,A2,W,KBH756,RA,5999670,(C)6>7,coding(2066/2238nt),PA14_RS27425<,hypothetical protein
+S,A4,W,KBH757,RA,62601,C>T,R164H(CGC>CAC),PA14_RS00255<,hypothetical protein
+S,A4,W,KBH757,MCJC,120342,Î”186bp,coding(165â€‘350/1233nt),PA14_RS00515>,hypothetical protein
+S,A4,W,KBH757,RA,364020,G>A,A276T(GCC>ACC),PA14_RS01645>,alpha/beta hydrolase
+S,A4,W,KBH757,RA,464793,C>T,intergenic(+9/â€‘38),PA14_RS02165>/>PA14_RS02170,protein PilG/twoâ€‘component system response regulator
+S,A4,W,KBH757,RA,582163,A>G,V136A(GTT>GCT),PA14_RS02660<,cytochrome c
+S,A4,W,KBH757,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+S,A4,W,KBH757,RA,1150897,T>C,T143A(ACG>GCG),PA14_RS05385<,DUF4123 domainâ€‘containing protein
+S,A4,W,KBH757,RA,1923346,C>T,A263T(GCT>ACT),PA14_RS08940<,hypothetical protein
+S,A4,W,KBH757,RA,2101288,T>C,intergenic(â€‘83/â€‘42),PA14_RS09800</>PA14_RS09805,DUF1853 domainâ€‘containing protein/NAD kinase
+S,A4,W,KBH757,RA,2705564,C>T,G29D(GGC>GAC),PA14_RS12725<,ATPase
+S,A4,W,KBH757,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,A4,W,KBH757,RA,2854005,(G)7>8,coding(5438/15639nt),PA14_RS13370>,hypothetical protein
+S,A4,W,KBH757,RA,2888039,C>T,A642V(GCC>GTC),gcvP>,glycine dehydrogenase (decarboxylating)
+S,A4,W,KBH757,RA,2928776,C>T,A113T(GCC>ACC),csy3<,CRISPRâ€‘associated protein Csy3
+S,A4,W,KBH757,RA,3349103,T>C,intergenic(+100/â€‘46),PA14_RS30565>/>PA14_RS15310,amino acid permease/hypothetical protein
+S,A4,W,KBH757,RA,3482105,T>C,V327A(GTT>GCT),brnQ>,branchedâ€‘chain amino acid transport system 3 carrier protein
+S,A4,W,KBH757,RA,3727264,G>A,Q190*(CAG>TAG),PA14_RS16935<,aromatic hydrocarbon degradation protein
+S,A4,W,KBH757,RA,4436587,C>T,P386L(CCG>CTG),PA14_RS20260>,GGDEF domainâ€‘containing protein
+S,A4,W,KBH757,RA,4542238,T>C,S232G(AGC>GGC),PA14_RS20770<,enoylâ€‘CoA hydratase/isomerase family protein
+S,A4,W,KBH757,RA,4644477,A>G,V74A(GTC>GCC),PA14_RS21315<,hypothetical protein
+S,A4,W,KBH757,RA,4664820,C>T,intergenic(â€‘47/+75),PA14_RS21420</<PA14_RS21425,alanineâ€‘â€‘tRNA ligase/lowâ€‘specificity Lâ€‘threonine aldolase
+S,A4,W,KBH757,RA,4721938,A>G,T271A(ACC>GCC),PA14_RS21685>,serine/threonine dehydratase
+S,A4,W,KBH757,RA,4978817,G>A,G110D(GGC>GAC),PA14_RS22760>,inorganic phosphate transporter
+S,A4,W,KBH757,RA,5203891,T>C,V470A(GTC>GCC),PA14_RS23820>,outer membrane porin OprD family
+S,A4,W,KBH757,RA,5378218,T>C,E59E(GAA>GAG),PA14_RS24640<,4â€‘hydroxyâ€‘3â€‘methylbutâ€‘2â€‘enyl diphosphate reductase
+S,A4,W,KBH757,RA,5482797,T>C,T54A(ACC>GCC),PA14_RS25095<,hypothetical protein
+S,A4,W,KBH757,RA,5566754,T>C,T60A(ACC>GCC),PA14_RS25500<,alanine transaminase
+S,A4,W,KBH757,RA,5596224,G>A,G395G(GGC>GGT),pnp<,polyribonucleotide nucleotidyltransferase
+S,A4,W,KBH757,RA,5868684,T>C,D82G(GAC>GGC),PA14_RS26890<,hybrid sensor histidine kinase/response regulator
+S,A4,W,KBH757,RA,5999670,(C)6>7,coding(2066/2238nt),PA14_RS27425<,hypothetical protein
+L,B4,W,KBH758,RA,309340,C>T,T41T(ACG>ACA),PA14_RS01390<,XRE family transcriptional regulator
+L,B4,W,KBH758,RA,479729,G>A,P336S(CCC>TCC),PA14_RS02215<,hypothetical protein
+L,B4,W,KBH758,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+L,B4,W,KBH758,RA,957143,G>A,G111D(GGC>GAC),PA14_RS04460>,type 1 fimbrial protein
+L,B4,W,KBH758,RA,1015333,(G)6>7,intergenic(â€‘56/â€‘138),PA14_RS04745</>PA14_RS04750,hypothetical protein/protein kinase
+L,B4,W,KBH758,RA,1119361,A>G,N488S(AAC>AGC),PA14_RS05245>,cytochrome ubiquinol oxidase subunit I
+L,B4,W,KBH758,RA,1285151,(G)6>7,coding(747/762nt),PA14_RS06040<,hypothetical protein
+L,B4,W,KBH758,RA,1568146,C>T,A204A(GCC>GCT),PA14_RS07335>,PTS fructose transporter subunit IIBC
+L,B4,W,KBH758,RA,1758616,A>G,T158A(ACG>GCG),PA14_RS08195>,phosphonate metabolism protein PhnP
+L,B4,W,KBH758,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+L,B4,W,KBH758,RA,2927599,T>C,H161R(CAC>CGC),cas6f<,type Iâ€‘F CRISPRâ€‘associated endoribonuclease Cas6/Csy4
+L,B4,W,KBH758,RA,3720273,G>A,R122C(CGT>TGT),PA14_RS16900<,phosphoenolpyruvate synthase
+L,B4,W,KBH758,RA,3913073,T>C,T86A(ACC>GCC),PA14_RS17855<,succinylâ€‘CoA ligase subunit beta
+L,B4,W,KBH758,RA,4968474,G>A,S57S(AGC>AGT),recB<,exodeoxyribonuclease V subunit beta
+L,B4,W,KBH758,RA,5348824,T>C,Y271Y(TAT>TAC),PA14_RS24515>,ATPâ€‘dependent endonuclease
+L,B4,W,KBH758,RA,5482501,(C)8>9,intergenic(â€‘92/+165),PA14_RS25090</<PA14_RS25095,VOC family protein/hypothetical protein
+L,B4,W,KBH758,RA,5821672,T>C,D467G(GAC>GGC),PA14_RS26710<,DNA mismatch repair protein MutL
+L,B4,W,KBH758,RA,5919961,(C)6>7,coding(877/1743nt),PA14_RS27090>,K+/H+ antiporter NhaP2
+L,B4,W,KBH758,RA,5943657,C>T,intergenic(â€‘114/+111),PA14_RS27165</<PA14_RS27170,glutamate synthase large subunit/hypothetical protein
+L,B4,W,KBH758,RA,6231409,G>A,S21S(AGC>AGT),PA14_RS28475<,haloacid dehalogenaseâ€‘like hydrolase
+L,B4,W,KBH758,RA,6511617,G>A,P305S(CCC>TCC),PA14_RS29770<,C4â€‘dicarboxylate ABC transporter
+S,C5,W,KBH759,RA,62601,C>T,R164H(CGC>CAC),PA14_RS00255<,hypothetical protein
+S,C5,W,KBH759,RA,195834,(G)6>7,intergenic(â€‘226/+37),PA14_RS00880</<PA14_RS00885,histidine kinase/chemotaxis response regulator proteinâ€‘glutamate methylesterase
+S,C5,W,KBH759,RA,464793,C>T,intergenic(+9/â€‘38),PA14_RS02165>/>PA14_RS02170,protein PilG/twoâ€‘component system response regulator
+S,C5,W,KBH759,RA,582163,A>G,V136A(GTT>GCT),PA14_RS02660<,cytochrome c
+S,C5,W,KBH759,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+S,C5,W,KBH759,RA,863344,A>G,S302P(TCC>CCC),PA14_RS04055<,amidase
+S,C5,W,KBH759,RA,943097,C>T,G226D(GGC>GAC),PA14_RS04390<,butanediol dehydrogenase
+S,C5,W,KBH759,RA,1109071,C>T,D179D(GAC>GAT),tauB>,taurine import ATPâ€‘binding protein TauB
+S,C5,W,KBH759,RA,1150897,T>C,T143A(ACG>GCG),PA14_RS05385<,DUF4123 domainâ€‘containing protein
+S,C5,W,KBH759,RA,1204368,C>T,A72T(GCC>ACC),PA14_RS05620<,ATPâ€‘dependent RNA helicase RhlB
+S,C5,W,KBH759,RA,1606660,A>G,A168A(GCA>GCG),PA14_RS07475>,MFS transporter
+S,C5,W,KBH759,RA,1651866,(T)8>7,intergenic(+151/â€‘30),PA14_RS07660>/>PA14_RS07665,regulatory protein RhlR/acylâ€‘homoserineâ€‘lactone synthase
+S,C5,W,KBH759,RA,1780113,C>T,A246V(GCC>GTC),PA14_RS08305>,glutamine synthetase
+S,C5,W,KBH759,RA,1823239,(C)5>6,coding(462/915nt),PA14_RS08480<,transcriptional regulator
+S,C5,W,KBH759,RA,1837929,(G)5>6,coding(2199/2847nt),PA14_RS08545<,RNA polymeraseâ€‘associated protein RapA
+S,C5,W,KBH759,RA,1897810,(G)7>6,intergenic(+292/â€‘78),PA14_RS08800>/>PA14_RS08805,FKBPâ€‘type peptidylâ€‘prolyl cisâ€‘trans isomerase/DUF1232 domainâ€‘containing protein
+S,C5,W,KBH759,RA,2223364,G>A,G359D(GGC>GAC),PA14_RS10305>,lipoproteinâ€‘releasing system transmembrane subunit LolC
+S,C5,W,KBH759,RA,2705564,C>T,G29D(GGC>GAC),PA14_RS12725<,ATPase
+S,C5,W,KBH759,RA,2768048,C>T,A266T(GCC>ACC),PA14_RS13025<,pyridoxal phosphateâ€‘dependent aminotransferase
+S,C5,W,KBH759,RA,2771407,T>C,K131R(AAG>AGG),PA14_RS13035<,peptidase C69
+S,C5,W,KBH759,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,C5,W,KBH759,RA,2888039,C>T,A642V(GCC>GTC),gcvP>,glycine dehydrogenase (decarboxylating)
+S,C5,W,KBH759,RA,3015872,C>T,R157R(CGG>CGA),PA14_RS13835<,DNAâ€‘binding response regulator
+S,C5,W,KBH759,RA,3235833,C>T,L79L(CTG>CTA),PA14_RS14775<,hydrogen cyanide synthase subunit HcnB
+S,C5,W,KBH759,RA,3482105,T>C,V327A(GTT>GCT),brnQ>,branchedâ€‘chain amino acid transport system 3 carrier protein
+S,C5,W,KBH759,RA,3880264,(C)6>7,coding(308/825nt),PA14_RS17700<,AraC family transcriptional regulator
+S,C5,W,KBH759,RA,4085847,Î”1bp,coding(212/720nt),PA14_RS18655<,transcriptional activator protein LasR
+S,C5,W,KBH759,RA,4193243,T>C,L51P(CTG>CCG),PA14_RS19135>,LysR family transcriptional regulator
+S,C5,W,KBH759,RA,4436587,C>T,P386L(CCG>CTG),PA14_RS20260>,GGDEF domainâ€‘containing protein
+S,C5,W,KBH759,RA,4542238,T>C,S232G(AGC>GGC),PA14_RS20770<,enoylâ€‘CoA hydratase/isomerase family protein
+S,C5,W,KBH759,RA,4721938,A>G,T271A(ACC>GCC),PA14_RS21685>,serine/threonine dehydratase
+S,C5,W,KBH759,RA,5003081,(G)7>8,coding(49/1116nt),PA14_RS22855>,glycosyltransferase family 1 protein
+S,C5,W,KBH759,RA,5203891,T>C,V470A(GTC>GCC),PA14_RS23820>,outer membrane porin OprD family
+S,C5,W,KBH759,RA,5471462,(C)6>7,intergenic(â€‘124/+20),PA14_RS25030</<PA14_RS25035,hypothetical protein/peptidase M48
+S,C5,W,KBH759,RA,5566754,T>C,T60A(ACC>GCC),PA14_RS25500<,alanine transaminase
+S,C5,W,KBH759,RA,5596224,G>A,G395G(GGC>GGT),pnp<,polyribonucleotide nucleotidyltransferase
+S,C5,W,KBH759,RA,5614335,T>C,N227S(AAC>AGC),carB<,carbamoylâ€‘phosphate synthase large chain
+S,C5,W,KBH759,RA,5919961,(C)6>5,coding(877/1743nt),PA14_RS27090>,K+/H+ antiporter NhaP2
+S,C5,W,KBH759,RA,5999670,(C)6>7,coding(2066/2238nt),PA14_RS27425<,hypothetical protein
+S,C5,W,KBH759,RA,6222152,(C)8>9,coding(660/915nt),PA14_RS28435<,type 1 fimbrial protein
+L,B5,W,KBH760,RA,309340,C>T,T41T(ACG>ACA),PA14_RS01390<,XRE family transcriptional regulator
+L,B5,W,KBH760,RA,509352,A>G,C41R(TGC>CGC),PA14_RS02325<,dihydropyrimidine dehydrogenase subunit A
+L,B5,W,KBH760,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+L,B5,W,KBH760,RA,1015333,(G)6>7,intergenic(â€‘56/â€‘138),PA14_RS04745</>PA14_RS04750,hypothetical protein/protein kinase
+L,B5,W,KBH760,RA,1119361,A>G,N488S(AAC>AGC),PA14_RS05245>,cytochrome ubiquinol oxidase subunit I
+L,B5,W,KBH760,RA,1261807,C>T,A202V(GCC>GTC),PA14_RS05920>,type IV pilus biogenesis/stability protein PilW
+L,B5,W,KBH760,RA,1406509,C>T,Q289*(CAG>TAG),PA14_RS06585>,methylâ€‘accepting chemotaxis protein
+L,B5,W,KBH760,RA,1406636,C>T,S331L(TCG>TTG),PA14_RS06585>,methylâ€‘accepting chemotaxis protein
+L,B5,W,KBH760,RA,1758616,A>G,T158A(ACG>GCG),PA14_RS08195>,phosphonate metabolism protein PhnP
+L,B5,W,KBH760,RA,2033552,C>T,A107V(GCA>GTA),PA14_RS29910>,hypothetical protein
+L,B5,W,KBH760,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+L,B5,W,KBH760,RA,2927599,T>C,H161R(CAC>CGC),cas6f<,type Iâ€‘F CRISPRâ€‘associated endoribonuclease Cas6/Csy4
+L,B5,W,KBH760,RA,3720273,G>A,R122C(CGT>TGT),PA14_RS16900<,phosphoenolpyruvate synthase
+L,B5,W,KBH760,RA,3913073,T>C,T86A(ACC>GCC),PA14_RS17855<,succinylâ€‘CoA ligase subunit beta
+L,B5,W,KBH760,RA,5348824,T>C,Y271Y(TAT>TAC),PA14_RS24515>,ATPâ€‘dependent endonuclease
+L,B5,W,KBH760,RA,5482501,(C)8>9,intergenic(â€‘92/+165),PA14_RS25090</<PA14_RS25095,VOC family protein/hypothetical protein
+L,B5,W,KBH760,RA,5821672,T>C,D467G(GAC>GGC),PA14_RS26710<,DNA mismatch repair protein MutL
+L,B5,W,KBH760,RA,5943657,C>T,intergenic(â€‘114/+111),PA14_RS27165</<PA14_RS27170,glutamate synthase large subunit/hypothetical protein
+L,B5,W,KBH760,RA,6231409,G>A,S21S(AGC>AGT),PA14_RS28475<,haloacid dehalogenaseâ€‘like hydrolase
+L,D6,W,KBH761,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+L,D6,W,KBH761,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+L,D5,W,KBH762,RA,309340,C>T,T41T(ACG>ACA),PA14_RS01390<,XRE family transcriptional regulator
+L,D5,W,KBH762,RA,767356,A>G,A36A(GCA>GCG),PA14_RS03665>,30S ribosomal protein S5
+L,D5,W,KBH762,RA,1015333,(G)6>7,intergenic(â€‘56/â€‘138),PA14_RS04745</>PA14_RS04750,hypothetical protein/protein kinase
+L,D5,W,KBH762,RA,1119361,A>G,N488S(AAC>AGC),PA14_RS05245>,cytochrome ubiquinol oxidase subunit I
+L,D5,W,KBH762,RA,1758616,A>G,T158A(ACG>GCG),PA14_RS08195>,phosphonate metabolism protein PhnP
+L,D5,W,KBH762,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+L,D5,W,KBH762,RA,2927599,T>C,H161R(CAC>CGC),cas6f<,type Iâ€‘F CRISPRâ€‘associated endoribonuclease Cas6/Csy4
+L,D5,W,KBH762,RA,3355205,T>C,S134P(TCC>CCC),PA14_RS15330>,hypothetical protein
+L,D5,W,KBH762,RA,3720273,G>A,R122C(CGT>TGT),PA14_RS16900<,phosphoenolpyruvate synthase
+L,D5,W,KBH762,RA,3913073,T>C,T86A(ACC>GCC),PA14_RS17855<,succinylâ€‘CoA ligase subunit beta
+L,D5,W,KBH762,RA,4769938,(C)6>5,coding(28/1317nt),PA14_RS21905>,divalent metal cation transporter
+L,D5,W,KBH762,RA,5348824,T>C,Y271Y(TAT>TAC),PA14_RS24515>,ATPâ€‘dependent endonuclease
+L,D5,W,KBH762,RA,5373447,Î”1bp,coding(294/3477nt),PA14_RS24625>,type IV pilus biogenesis factor PilY1
+L,D5,W,KBH762,RA,5482501,(C)8>9,intergenic(â€‘92/+165),PA14_RS25090</<PA14_RS25095,VOC family protein/hypothetical protein
+L,D5,W,KBH762,RA,5821672,T>C,D467G(GAC>GGC),PA14_RS26710<,DNA mismatch repair protein MutL
+L,D5,W,KBH762,RA,5943657,C>T,intergenic(â€‘114/+111),PA14_RS27165</<PA14_RS27170,glutamate synthase large subunit/hypothetical protein
+L,D5,W,KBH762,RA,6008731,T>C,M1M(ATG>GTG)â€ ,PA14_RS27450<,glycine betaine/Lâ€‘proline ABC transporter ATPâ€‘binding protein
+L,D5,W,KBH762,RA,6231409,G>A,S21S(AGC>AGT),PA14_RS28475<,haloacid dehalogenaseâ€‘like hydrolase
+S,A6,W,KBH763,RA,19378,A>G,L239P(CTC>CCC),PA14_RS00085<,16S rRNA (cytosine(967)â€‘C(5))â€‘methyltransferase RsmB
+S,A6,W,KBH763,RA,27388,A>G,E219E(GAA>GAG),PA14_RS00125>,shikimate dehydrogenase
+S,A6,W,KBH763,RA,62601,C>T,R164H(CGC>CAC),PA14_RS00255<,hypothetical protein
+S,A6,W,KBH763,RA,140102,A>G,D91G(GAT>GGT),PA14_RS00620>,hemolysin
+S,A6,W,KBH763,RA,464793,C>T,intergenic(+9/â€‘38),PA14_RS02165>/>PA14_RS02170,protein PilG/twoâ€‘component system response regulator
+S,A6,W,KBH763,RA,564385,C>T,G66D(GGC>GAC),PA14_RS02580<,LysR family transcriptional regulator
+S,A6,W,KBH763,RA,582163,A>G,V136A(GTT>GCT),PA14_RS02660<,cytochrome c
+S,A6,W,KBH763,RA,655935,C>T,R17H(CGT>CAT),PA14_RS03050<,multifunctional CCA tRNA nucleotidyl transferase/2'3'â€‘cyclic phosphodiesterase/2'nucleotidase/phosphatase
+S,A6,W,KBH763,RA,697932,T>C,G548G(GGT>GGC),PA14_RS03255>,hypothetical protein
+S,A6,W,KBH763,RA,908833,C>T,T62T(ACC>ACT),PA14_RS04250>,sulfite reductase
+S,A6,W,KBH763,RA,1150897,T>C,T143A(ACG>GCG),PA14_RS05385<,DUF4123 domainâ€‘containing protein
+S,A6,W,KBH763,RA,1186449,G>A,G948D(GGC>GAC),PA14_RS05545>,nitrate reductase subunit alpha
+S,A6,W,KBH763,RA,1206231,A>G,D472G(GAC>GGC),PA14_RS05625>,acylâ€‘CoA synthetase
+S,A6,W,KBH763,RA,1228961,(G)7>8,intergenic(â€‘148/â€‘274),PA14_RS05755</>PA14_RS05760,ABC transporter substrateâ€‘binding protein/hypothetical protein
+S,A6,W,KBH763,RA,1625718,A>G,Q306R(CAG>CGG),PA14_RS07555>,adenylosuccinate lyase
+S,A6,W,KBH763,RA,1669735,A>G,F140L(TTC>CTC),PA14_RS07735<,hybrid sensor histidine kinase/response regulator
+S,A6,W,KBH763,RA,1918131,C>T,R168C(CGC>TGC),PA14_RS08915>,hypothetical protein
+S,A6,W,KBH763,RA,2203471,C>T,P295S(CCG>TCG),PA14_RS10215>,betaâ€‘hexosaminidase
+S,A6,W,KBH763,RA,2705564,C>T,G29D(GGC>GAC),PA14_RS12725<,ATPase
+S,A6,W,KBH763,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,A6,W,KBH763,RA,2888039,C>T,A642V(GCC>GTC),gcvP>,glycine dehydrogenase (decarboxylating)
+S,A6,W,KBH763,RA,2944060,C>T,R403Q(CGG>CAG),treA<,trehalase
+S,A6,W,KBH763,RA,3402314,G>A,P400S(CCG>TCG),PA14_RS15500<,glutamine synthetase
+S,A6,W,KBH763,RA,3482105,T>C,V327A(GTT>GCT),brnQ>,branchedâ€‘chain amino acid transport system 3 carrier protein
+S,A6,W,KBH763,RA,3907924,G>A,R117C(CGC>TGC),PA14_RS17830<,hypothetical protein
+S,A6,W,KBH763,RA,4018474,C>T,R385R(CGC>CGT),pyk>,pyruvate kinase
+S,A6,W,KBH763,RA,4080921,T>C,N166D(AAC>GAC),PA14_RS18630<,efflux RND transporter periplasmic adaptor subunit
+S,A6,W,KBH763,RA,4094365,G>A,intergenic(â€‘20/â€‘274),PA14_RS18685</>PA14_RS18690,DTW domainâ€‘containing protein/chemotaxis protein
+S,A6,W,KBH763,RA,4217658,T>C,D5G(GAC>GGC),PA14_RS19250<,hypothetical protein
+S,A6,W,KBH763,RA,4373424,G>A,pseudogene(210/2489nt),PA14_RS20000>,periplasmic nitrate reductase subunit alpha
+S,A6,W,KBH763,RA,4436587,C>T,P386L(CCG>CTG),PA14_RS20260>,GGDEF domainâ€‘containing protein
+S,A6,W,KBH763,RA,4499878,(C)7>8,coding(99/522nt),PA14_RS20560<,Nâ€‘acetyltransferase
+S,A6,W,KBH763,RA,4542238,T>C,S232G(AGC>GGC),PA14_RS20770<,enoylâ€‘CoA hydratase/isomerase family protein
+S,A6,W,KBH763,RA,4661841,G>A,A54V(GCC>GTC),PA14_RS21415<,aspartokinase
+S,A6,W,KBH763,RA,4721938,A>G,T271A(ACC>GCC),PA14_RS21685>,serine/threonine dehydratase
+S,A6,W,KBH763,RA,4947029,T>C,G134G(GGT>GGC),PA14_RS22665>,hypothetical protein
+S,A6,W,KBH763,RA,5195352,A>G,H95R(CAC>CGC),PA14_RS23795>,ABC transporter substrateâ€‘binding protein
+S,A6,W,KBH763,RA,5195360,A>C,K98Q(AAG>CAG),PA14_RS23795>,ABC transporter substrateâ€‘binding protein
+S,A6,W,KBH763,RA,5195371,G>A,K101K(AAG>AAA),PA14_RS23795>,ABC transporter substrateâ€‘binding protein
+S,A6,W,KBH763,RA,5203891,T>C,V470A(GTC>GCC),PA14_RS23820>,outer membrane porin OprD family
+S,A6,W,KBH763,RA,5431623,G>A,L929L(CTG>CTA),PA14_RS24870>,GGDEF domainâ€‘containing protein
+S,A6,W,KBH763,RA,5566754,T>C,T60A(ACC>GCC),PA14_RS25500<,alanine transaminase
+S,A6,W,KBH763,RA,5596224,G>A,G395G(GGC>GGT),pnp<,polyribonucleotide nucleotidyltransferase
+S,A6,W,KBH763,RA,5815507,T>C,D162G(GAC>GGC),PA14_RS26675<,ATP phosphoribosyltransferase regulatory subunit
+S,A6,W,KBH763,RA,5999670,(C)6>7,coding(2066/2238nt),PA14_RS27425<,hypothetical protein
+S,A4,W,KBH764,RA,62601,C>T,R164H(CGC>CAC),PA14_RS00255<,hypothetical protein
+S,A4,W,KBH764,RA,135021,A>G,intergenic(+115/â€‘141),PA14_RS00590>/>PA14_RS00595,transcriptional regulator/shortâ€‘chain dehydrogenase
+S,A4,W,KBH764,RA,464793,C>T,intergenic(+9/â€‘38),PA14_RS02165>/>PA14_RS02170,protein PilG/twoâ€‘component system response regulator
+S,A4,W,KBH764,RA,582163,A>G,V136A(GTT>GCT),PA14_RS02660<,cytochrome c
+S,A4,W,KBH764,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+S,A4,W,KBH764,RA,1040963,T>C,V17A(GTG>GCG),mrdA>,penicillinâ€‘binding protein 2
+S,A4,W,KBH764,RA,1150897,T>C,T143A(ACG>GCG),PA14_RS05385<,DUF4123 domainâ€‘containing protein
+S,A4,W,KBH764,RA,1204280,T>C,D101G(GAC>GGC),PA14_RS05620<,ATPâ€‘dependent RNA helicase RhlB
+S,A4,W,KBH764,RA,1379451,C>T,R192C(CGC>TGC),PA14_RS06485>,DNA repair ATPase
+S,A4,W,KBH764,RA,1381370,C>T,S831S(AGC>AGT),PA14_RS06485>,DNA repair ATPase
+S,A4,W,KBH764,RA,1406696,T>C,V351A(GTG>GCG),PA14_RS06585>,methylâ€‘accepting chemotaxis protein
+S,A4,W,KBH764,RA,1950307,C>T,S33L(TCG>TTG),PA14_RS09065>,DUF3309 domainâ€‘containing protein
+S,A4,W,KBH764,RA,1973425,G>A,A23V(GCC>GTC),PA14_RS09195<,ABC transporter permease
+S,A4,W,KBH764,RA,2610261,C>T,R180Q(CGG>CAG),PA14_RS12285<,lysogenization protein HflD
+S,A4,W,KBH764,RA,2705564,C>T,G29D(GGC>GAC),PA14_RS12725<,ATPase
+S,A4,W,KBH764,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,A4,W,KBH764,RA,2888039,C>T,A642V(GCC>GTC),gcvP>,glycine dehydrogenase (decarboxylating)
+S,A4,W,KBH764,RA,3094576,C>T,A1231V(GCG>GTG),PA14_RS14170>,nonâ€‘ribosomal peptide synthetase
+S,A4,W,KBH764,RA,3402314,G>A,P400S(CCG>TCG),PA14_RS15500<,glutamine synthetase
+S,A4,W,KBH764,RA,3482105,T>C,V327A(GTT>GCT),brnQ>,branchedâ€‘chain amino acid transport system 3 carrier protein
+S,A4,W,KBH764,RA,3847723,T>C,Y45H(TAC>CAC),PA14_RS17550>,NADPâ€‘dependent oxidoreductase
+S,A4,W,KBH764,RA,4058328,C>T,A83T(GCC>ACC),PA14_RS18525<,chemotaxis regulatory protein CheY
+S,A4,W,KBH764,RA,4096415,G>A,H125H(CAC>CAT),PA14_RS18695<,LysR family transcriptional regulator
+S,A4,W,KBH764,RA,4217840,(C)6>7,coding(21/2052nt),PA14_RS19255>,S9 family peptidase
+S,A4,W,KBH764,RA,4401840,T>C,V17A(GTC>GCC),PA14_RS20100>,hypothetical protein
+S,A4,W,KBH764,RA,4436587,C>T,P386L(CCG>CTG),PA14_RS20260>,GGDEF domainâ€‘containing protein
+S,A4,W,KBH764,RA,4542238,T>C,S232G(AGC>GGC),PA14_RS20770<,enoylâ€‘CoA hydratase/isomerase family protein
+S,A4,W,KBH764,RA,4721938,A>G,T271A(ACC>GCC),PA14_RS21685>,serine/threonine dehydratase
+S,A4,W,KBH764,RA,4973055,C>T,G277R(GGG>AGG),PA14_RS22735<,EamA/RhaT family transporter
+S,A4,W,KBH764,RA,5128805,A>G,R85R(CGT>CGC),PA14_RS23475<,30S ribosomal protein S9
+S,A4,W,KBH764,RA,5203891,T>C,V470A(GTC>GCC),PA14_RS23820>,outer membrane porin OprD family
+S,A4,W,KBH764,RA,5229181,G>A,intergenic(â€‘135/+16),PA14_RS23925</<PA14_RS23930,16â€‘anhydroâ€‘Nâ€‘acetylmuramylâ€‘Lâ€‘alanine amidase AmpD/DUF1631 domainâ€‘containing protein
+S,A4,W,KBH764,RA,5566754,T>C,T60A(ACC>GCC),PA14_RS25500<,alanine transaminase
+S,A4,W,KBH764,RA,5596224,G>A,G395G(GGC>GGT),pnp<,polyribonucleotide nucleotidyltransferase
+S,A4,W,KBH764,RA,5781715,A>G,L161P(CTG>CCG),PA14_RS26525<,branchedâ€‘chain amino acid ABC transporter permease
+S,A4,W,KBH764,RA,5999670,(C)6>7,coding(2066/2238nt),PA14_RS27425<,hypothetical protein
+S,A4,W,KBH764,RA,6124855,G>A,intergenic(â€‘87/+8),PA14_RS28000</<PA14_RS28005,twoâ€‘component sensor histidine kinase/twoâ€‘component system response regulator OmpR
+S,A4,W,KBH764,RA,6189579,(C)7>6,coding(35/483nt),PA14_RS28285<,transcriptional regulator
+S,A4,W,KBH764,RA,6342486,T>C,Q88R(CAG>CGG),PA14_RS28990<,DUF1028 domainâ€‘containing protein
+S,A4,W,KBH764,RA,6389732,T>C,H503R(CAC>CGC),oadA<,oxaloacetate decarboxylase subunit alpha
+S,A4,W,KBH764,RA,6507941,G>A,P350L(CCG>CTG),PA14_RS29755<,serine hydrolase
+L,B5,W,KBH765,RA,110120,A>G,I498V(ATC>GTC),PA14_RS00460>,type VI secretion system tip protein VgrG
+L,B5,W,KBH765,RA,309340,C>T,T41T(ACG>ACA),PA14_RS01390<,XRE family transcriptional regulator
+L,B5,W,KBH765,RA,622454,(G)5>6,intergenic(+35/â€‘38),pgk>/>PA14_RS02885,phosphoglycerate kinase/hypothetical protein
+L,B5,W,KBH765,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+L,B5,W,KBH765,RA,1015333,(G)6>7,intergenic(â€‘56/â€‘138),PA14_RS04745</>PA14_RS04750,hypothetical protein/protein kinase
+L,B5,W,KBH765,RA,1119361,A>G,N488S(AAC>AGC),PA14_RS05245>,cytochrome ubiquinol oxidase subunit I
+L,B5,W,KBH765,RA,1406792,C>T,A383V(GCC>GTC),PA14_RS06585>,methylâ€‘accepting chemotaxis protein
+L,B5,W,KBH765,RA,1758616,A>G,T158A(ACG>GCG),PA14_RS08195>,phosphonate metabolism protein PhnP
+L,B5,W,KBH765,RA,2516526,G>A,S220L(TCG>TTG),PA14_RS11855<,polyamine ABC transporter substrateâ€‘binding protein
+L,B5,W,KBH765,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+L,B5,W,KBH765,RA,2927599,T>C,H161R(CAC>CGC),cas6f<,type Iâ€‘F CRISPRâ€‘associated endoribonuclease Cas6/Csy4
+L,B5,W,KBH765,RA,3261927,C>T,intergenic(+6/â€‘7),PA14_RS14905>/>glgX,DUF2934 domainâ€‘containing protein/glycogen debranching enzyme GlgX
+L,B5,W,KBH765,RA,3631034,T>C,intergenic(+225/â€‘50),PA14_RS16485>/>PA14_RS16490,hypothetical protein/methionine synthase
+L,B5,W,KBH765,RA,3720273,G>A,R122C(CGT>TGT),PA14_RS16900<,phosphoenolpyruvate synthase
+L,B5,W,KBH765,RA,3913073,T>C,T86A(ACC>GCC),PA14_RS17855<,succinylâ€‘CoA ligase subunit beta
+L,B5,W,KBH765,RA,4042814,T>C,intergenic(â€‘178/â€‘108),PA14_RS18435</>PA14_RS18440,cytochrome c biogenesis ATPâ€‘binding export protein CcmA/flagellar hookâ€‘length control protein FliK
+L,B5,W,KBH765,RA,5348824,T>C,Y271Y(TAT>TAC),PA14_RS24515>,ATPâ€‘dependent endonuclease
+L,B5,W,KBH765,RA,5482501,(C)8>9,intergenic(â€‘92/+165),PA14_RS25090</<PA14_RS25095,VOC family protein/hypothetical protein
+L,B5,W,KBH765,RA,5821672,T>C,D467G(GAC>GGC),PA14_RS26710<,DNA mismatch repair protein MutL
+L,B5,W,KBH765,RA,5943657,C>T,intergenic(â€‘114/+111),PA14_RS27165</<PA14_RS27170,glutamate synthase large subunit/hypothetical protein
+L,B5,W,KBH765,RA,6231409,G>A,S21S(AGC>AGT),PA14_RS28475<,haloacid dehalogenaseâ€‘like hydrolase
+S,C5,W,KBH766,RA,62601,C>T,R164H(CGC>CAC),PA14_RS00255<,hypothetical protein
+S,C5,W,KBH766,RA,349512,G>A,V218V(GTG>GTA),PA14_RS01585>,glutamine amidotransferase
+S,C5,W,KBH766,RA,464793,C>T,intergenic(+9/â€‘38),PA14_RS02165>/>PA14_RS02170,protein PilG/twoâ€‘component system response regulator
+S,C5,W,KBH766,RA,582163,A>G,V136A(GTT>GCT),PA14_RS02660<,cytochrome c
+S,C5,W,KBH766,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+S,C5,W,KBH766,RA,1150897,T>C,T143A(ACG>GCG),PA14_RS05385<,DUF4123 domainâ€‘containing protein
+S,C5,W,KBH766,RA,1297182,T>C,D83G(GAC>GGC),PA14_RS06095<,DNAâ€‘binding response regulator
+S,C5,W,KBH766,RA,1727346,A>G,E9E(GAA>GAG),PA14_RS08025>,HlyD family type I secretion periplasmic adaptor subunit
+S,C5,W,KBH766,RA,1780113,C>T,A246V(GCC>GTC),PA14_RS08305>,glutamine synthetase
+S,C5,W,KBH766,RA,1837929,(G)5>6,coding(2199/2847nt),PA14_RS08545<,RNA polymeraseâ€‘associated protein RapA
+S,C5,W,KBH766,RA,2223364,G>A,G359D(GGC>GAC),PA14_RS10305>,lipoproteinâ€‘releasing system transmembrane subunit LolC
+S,C5,W,KBH766,RA,2353953,C>G,A55P(GCC>CCC),PA14_RS10945<,lipase chaperone
+S,C5,W,KBH766,RA,2705564,C>T,G29D(GGC>GAC),PA14_RS12725<,ATPase
+S,C5,W,KBH766,RA,2749942,(G)6>7,intergenic(+28/+79),PA14_RS12950>/<PA14_RS12955,lactoylglutathione lyase/exodeoxyribonuclease III
+S,C5,W,KBH766,RA,2771407,T>C,K131R(AAG>AGG),PA14_RS13035<,peptidase C69
+S,C5,W,KBH766,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,C5,W,KBH766,RA,2888039,C>T,A642V(GCC>GTC),gcvP>,glycine dehydrogenase (decarboxylating)
+S,C5,W,KBH766,RA,3235833,C>T,L79L(CTG>CTA),PA14_RS14775<,hydrogen cyanide synthase subunit HcnB
+S,C5,W,KBH766,RA,3482105,T>C,V327A(GTT>GCT),brnQ>,branchedâ€‘chain amino acid transport system 3 carrier protein
+S,C5,W,KBH766,RA,3880264,(C)6>7,coding(308/825nt),PA14_RS17700<,AraC family transcriptional regulator
+S,C5,W,KBH766,RA,4436587,C>T,P386L(CCG>CTG),PA14_RS20260>,GGDEF domainâ€‘containing protein
+S,C5,W,KBH766,RA,4542238,T>C,S232G(AGC>GGC),PA14_RS20770<,enoylâ€‘CoA hydratase/isomerase family protein
+S,C5,W,KBH766,RA,4721938,A>G,T271A(ACC>GCC),PA14_RS21685>,serine/threonine dehydratase
+S,C5,W,KBH766,RA,5003081,(G)7>8,coding(49/1116nt),PA14_RS22855>,glycosyltransferase family 1 protein
+S,C5,W,KBH766,RA,5203891,T>C,V470A(GTC>GCC),PA14_RS23820>,outer membrane porin OprD family
+S,C5,W,KBH766,RA,5566754,T>C,T60A(ACC>GCC),PA14_RS25500<,alanine transaminase
+S,C5,W,KBH766,RA,5596224,G>A,G395G(GGC>GGT),pnp<,polyribonucleotide nucleotidyltransferase
+S,C5,W,KBH766,RA,5999670,(C)6>7,coding(2066/2238nt),PA14_RS27425<,hypothetical protein
+S,C5,W,KBH766,RA,6520685,G>A,P88S(CCG>TCG),glmU<,bifunctional Nâ€‘acetylglucosamineâ€‘1â€‘phosphate uridyltransferase/glucosamineâ€‘1â€‘phosphate acetyltransferase
+S,C5,W,KBH766,RA,6532025,T>C,G143G(GGA>GGG),PA14_RS29870<,tRNA uridineâ€‘5â€‘carboxymethylaminomethyl(34) synthesis enzyme MnmG
+L,D5,W,KBH767,RA,309340,C>T,T41T(ACG>ACA),PA14_RS01390<,XRE family transcriptional regulator
+L,D5,W,KBH767,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+L,D5,W,KBH767,RA,767356,A>G,A36A(GCA>GCG),PA14_RS03665>,30S ribosomal protein S5
+L,D5,W,KBH767,RA,1015333,(G)6>7,intergenic(â€‘56/â€‘138),PA14_RS04745</>PA14_RS04750,hypothetical protein/protein kinase
+L,D5,W,KBH767,RA,1119361,A>G,N488S(AAC>AGC),PA14_RS05245>,cytochrome ubiquinol oxidase subunit I
+L,D5,W,KBH767,RA,1758616,A>G,T158A(ACG>GCG),PA14_RS08195>,phosphonate metabolism protein PhnP
+L,D5,W,KBH767,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+L,D5,W,KBH767,RA,2927599,T>C,H161R(CAC>CGC),cas6f<,type Iâ€‘F CRISPRâ€‘associated endoribonuclease Cas6/Csy4
+L,D5,W,KBH767,RA,3355205,T>C,S134P(TCC>CCC),PA14_RS15330>,hypothetical protein
+L,D5,W,KBH767,RA,3720273,G>A,R122C(CGT>TGT),PA14_RS16900<,phosphoenolpyruvate synthase
+L,D5,W,KBH767,RA,3913073,T>C,T86A(ACC>GCC),PA14_RS17855<,succinylâ€‘CoA ligase subunit beta
+L,D5,W,KBH767,RA,4769938,(C)6>5,coding(28/1317nt),PA14_RS21905>,divalent metal cation transporter
+L,D5,W,KBH767,RA,5348824,T>C,Y271Y(TAT>TAC),PA14_RS24515>,ATPâ€‘dependent endonuclease
+L,D5,W,KBH767,RA,5373447,Î”1bp,coding(294/3477nt),PA14_RS24625>,type IV pilus biogenesis factor PilY1
+L,D5,W,KBH767,RA,5482501,(C)8>9,intergenic(â€‘92/+165),PA14_RS25090</<PA14_RS25095,VOC family protein/hypothetical protein
+L,D5,W,KBH767,RA,5821672,T>C,D467G(GAC>GGC),PA14_RS26710<,DNA mismatch repair protein MutL
+L,D5,W,KBH767,RA,5943657,C>T,intergenic(â€‘114/+111),PA14_RS27165</<PA14_RS27170,glutamate synthase large subunit/hypothetical protein
+L,D5,W,KBH767,RA,6008731,T>C,M1M(ATG>GTG)â€ ,PA14_RS27450<,glycine betaine/Lâ€‘proline ABC transporter ATPâ€‘binding protein
+L,D5,W,KBH767,RA,6231409,G>A,S21S(AGC>AGT),PA14_RS28475<,haloacid dehalogenaseâ€‘like hydrolase
+S,A6,W,KBH768,RA,27388,A>G,E219E(GAA>GAG),PA14_RS00125>,shikimate dehydrogenase
+S,A6,W,KBH768,RA,62601,C>T,R164H(CGC>CAC),PA14_RS00255<,hypothetical protein
+S,A6,W,KBH768,RA,89350,C>T,G1117D(GGC>GAC),PA14_RS00390<,type VI secretion system membrane subunit TssM
+S,A6,W,KBH768,RA,152925,A>G,D182G(GAT>GGT),PA14_RS00690>,ABC transporter ATPâ€‘binding protein
+S,A6,W,KBH768,RA,464793,C>T,intergenic(+9/â€‘38),PA14_RS02165>/>PA14_RS02170,protein PilG/twoâ€‘component system response regulator
+S,A6,W,KBH768,RA,582163,A>G,V136A(GTT>GCT),PA14_RS02660<,cytochrome c
+S,A6,W,KBH768,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+S,A6,W,KBH768,RA,1150897,T>C,T143A(ACG>GCG),PA14_RS05385<,DUF4123 domainâ€‘containing protein
+S,A6,W,KBH768,RA,1407079,C>T,P479S(CCG>TCG),PA14_RS06585>,methylâ€‘accepting chemotaxis protein
+S,A6,W,KBH768,RA,1839958,(G)5>6,coding(170/2847nt),PA14_RS08545<,RNA polymeraseâ€‘associated protein RapA
+S,A6,W,KBH768,RA,1876848,G>T,A87S(GCC>TCC),PA14_RS08715>,short chain dehydrogenase
+S,A6,W,KBH768,RA,2200697,A>G,A44A(GCT>GCC),PA14_RS10200<,cell division inhibitor SulA
+S,A6,W,KBH768,RA,2271705,C>T,A77V(GCC>GTC),PA14_RS10545>,VWA domainâ€‘containing protein
+S,A6,W,KBH768,RA,2543868,C>T,intergenic(â€‘43/â€‘215),PA14_RS11980</>PA14_RS11985,DNAâ€‘binding response regulator/type VI secretion system tip protein VgrG
+S,A6,W,KBH768,RA,2705564,C>T,G29D(GGC>GAC),PA14_RS12725<,ATPase
+S,A6,W,KBH768,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,A6,W,KBH768,RA,2838050,A>G,Y80H(TAC>CAC),PA14_RS13325<,FAA hydrolase family protein
+S,A6,W,KBH768,RA,2888039,C>T,A642V(GCC>GTC),gcvP>,glycine dehydrogenase (decarboxylating)
+S,A6,W,KBH768,RA,3269516,A>G,Y243C(TAC>TGC),PA14_RS14940>,lysylphosphatidylglycerol synthetase family protein
+S,A6,W,KBH768,RA,3402314,G>A,P400S(CCG>TCG),PA14_RS15500<,glutamine synthetase
+S,A6,W,KBH768,RA,3482105,T>C,V327A(GTT>GCT),brnQ>,branchedâ€‘chain amino acid transport system 3 carrier protein
+S,A6,W,KBH768,RA,4321228,(G)6>7,coding(286/1479nt),PA14_RS19730>,AMPâ€‘binding protein
+S,A6,W,KBH768,RA,4436587,C>T,P386L(CCG>CTG),PA14_RS20260>,GGDEF domainâ€‘containing protein
+S,A6,W,KBH768,RA,4542238,T>C,S232G(AGC>GGC),PA14_RS20770<,enoylâ€‘CoA hydratase/isomerase family protein
+S,A6,W,KBH768,RA,4721938,A>G,T271A(ACC>GCC),PA14_RS21685>,serine/threonine dehydratase
+S,A6,W,KBH768,RA,4964690,T>A,H74L(CAC>CTC),recD<,exodeoxyribonuclease V subunit alpha
+S,A6,W,KBH768,RA,5130483,G>A,D246N(GAC>AAC),PA14_RS23485>,NADP(H)â€‘dependent aldoâ€‘keto reductase
+S,A6,W,KBH768,RA,5186759,T>C,D592G(GAC>GGC),PA14_RS23760<,hypothetical protein
+S,A6,W,KBH768,RA,5203891,T>C,V470A(GTC>GCC),PA14_RS23820>,outer membrane porin OprD family
+S,A6,W,KBH768,RA,5482501,(C)8>9,intergenic(â€‘92/+165),PA14_RS25090</<PA14_RS25095,VOC family protein/hypothetical protein
+S,A6,W,KBH768,RA,5566754,T>C,T60A(ACC>GCC),PA14_RS25500<,alanine transaminase
+S,A6,W,KBH768,RA,5596224,G>A,G395G(GGC>GGT),pnp<,polyribonucleotide nucleotidyltransferase
+S,A6,W,KBH768,RA,5854992,C>T,R17H(CGC>CAC),PA14_RS26845<,phosphomethylpyrimidine synthase
+S,A6,W,KBH768,RA,5999670,(C)6>7,coding(2066/2238nt),PA14_RS27425<,hypothetical protein
+S,A5,W,KBH769,RA,27388,A>G,E219E(GAA>GAG),PA14_RS00125>,shikimate dehydrogenase
+S,A5,W,KBH769,RA,62601,C>T,R164H(CGC>CAC),PA14_RS00255<,hypothetical protein
+S,A5,W,KBH769,RA,464793,C>T,intergenic(+9/â€‘38),PA14_RS02165>/>PA14_RS02170,protein PilG/twoâ€‘component system response regulator
+S,A5,W,KBH769,RA,582163,A>G,V136A(GTT>GCT),PA14_RS02660<,cytochrome c
+S,A5,W,KBH769,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+S,A5,W,KBH769,RA,1150897,T>C,T143A(ACG>GCG),PA14_RS05385<,DUF4123 domainâ€‘containing protein
+S,A5,W,KBH769,RA,1407079,C>T,P479S(CCG>TCG),PA14_RS06585>,methylâ€‘accepting chemotaxis protein
+S,A5,W,KBH769,RA,1542593,(G)7>8,coding(10/756nt),PA14_RS07210<,DeoR family transcriptional regulator
+S,A5,W,KBH769,RA,1839958,(G)5>6,coding(170/2847nt),PA14_RS08545<,RNA polymeraseâ€‘associated protein RapA
+S,A5,W,KBH769,RA,1897810,(G)7>6,intergenic(+292/â€‘78),PA14_RS08800>/>PA14_RS08805,FKBPâ€‘type peptidylâ€‘prolyl cisâ€‘trans isomerase/DUF1232 domainâ€‘containing protein
+S,A5,W,KBH769,RA,2201601,Î”1bp,intergenic(â€‘147/â€‘85),PA14_RS10205</>PA14_RS10210,LexA repressor/TetR/AcrR family transcriptional regulator
+S,A5,W,KBH769,RA,2436126,C>T,A99T(GCC>ACC),PA14_RS11420<,XRE family transcriptional regulator
+S,A5,W,KBH769,RA,2452317,A>G,C66R(TGC>CGC),PA14_RS11540<,hypothetical protein
+S,A5,W,KBH769,RA,2696011,A>G,L344P(CTG>CCG),PA14_RS12680<,CusA/CzcA family heavy metal efflux RND transporter
+S,A5,W,KBH769,RA,2705564,C>T,G29D(GGC>GAC),PA14_RS12725<,ATPase
+S,A5,W,KBH769,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,A5,W,KBH769,RA,2888039,C>T,A642V(GCC>GTC),gcvP>,glycine dehydrogenase (decarboxylating)
+S,A5,W,KBH769,RA,3232827,C>T,G147D(GGC>GAC),PA14_RS14765<,TetR/AcrR family transcriptional regulator
+S,A5,W,KBH769,RA,3402314,G>A,P400S(CCG>TCG),PA14_RS15500<,glutamine synthetase
+S,A5,W,KBH769,RA,3482105,T>C,V327A(GTT>GCT),brnQ>,branchedâ€‘chain amino acid transport system 3 carrier protein
+S,A5,W,KBH769,RA,3493988,A>G,T52A(ACG>GCG),PA14_RS15935>,hypothetical protein
+S,A5,W,KBH769,RA,4417592,A>G,E264E(GAA>GAG),PA14_RS20155>,LysR family transcriptional regulator
+S,A5,W,KBH769,RA,4436587,C>T,P386L(CCG>CTG),PA14_RS20260>,GGDEF domainâ€‘containing protein
+S,A5,W,KBH769,RA,4542238,T>C,S232G(AGC>GGC),PA14_RS20770<,enoylâ€‘CoA hydratase/isomerase family protein
+S,A5,W,KBH769,RA,4721938,A>G,T271A(ACC>GCC),PA14_RS21685>,serine/threonine dehydratase
+S,A5,W,KBH769,RA,5186759,T>C,D592G(GAC>GGC),PA14_RS23760<,hypothetical protein
+S,A5,W,KBH769,RA,5203891,T>C,V470A(GTC>GCC),PA14_RS23820>,outer membrane porin OprD family
+S,A5,W,KBH769,RA,5236184,G>A,D67N(GAC>AAC),PA14_RS23960>,type 4 fimbrial assembly protein pilC
+S,A5,W,KBH769,RA,5327928,(C)6>7,intergenic(â€‘307/â€‘25),PA14_RS24395</>PA14_RS24400,hybrid sensor histidine kinase/response regulator/TIGR03747 family integrating conjugative element membrane protein
+S,A5,W,KBH769,RA,5518666,G>A,R234C(CGC>TGC),PA14_RS25280<,hypothetical protein
+S,A5,W,KBH769,RA,5566754,T>C,T60A(ACC>GCC),PA14_RS25500<,alanine transaminase
+S,A5,W,KBH769,RA,5596224,G>A,G395G(GGC>GGT),pnp<,polyribonucleotide nucleotidyltransferase
+S,A5,W,KBH769,RA,5907133,G>A,L47L(CTG>TTG),PA14_RS27055<,bifunctional [glutamateâ€‘â€‘ammonia ligase]â€‘adenylylâ€‘Lâ€‘tyrosine phosphorylase/[glutamateâ€‘â€‘ammoniaâ€‘ligase] adenylyltransferase
+S,A5,W,KBH769,RA,5999670,(C)6>7,coding(2066/2238nt),PA14_RS27425<,hypothetical protein
+L,B6,W,KBH770,RA,309340,C>T,T41T(ACG>ACA),PA14_RS01390<,XRE family transcriptional regulator
+L,B6,W,KBH770,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+L,B6,W,KBH770,RA,1015333,(G)6>7,intergenic(â€‘56/â€‘138),PA14_RS04745</>PA14_RS04750,hypothetical protein/protein kinase
+L,B6,W,KBH770,RA,1119361,A>G,N488S(AAC>AGC),PA14_RS05245>,cytochrome ubiquinol oxidase subunit I
+L,B6,W,KBH770,RA,1758616,A>G,T158A(ACG>GCG),PA14_RS08195>,phosphonate metabolism protein PhnP
+L,B6,W,KBH770,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+L,B6,W,KBH770,RA,2927599,T>C,H161R(CAC>CGC),cas6f<,type Iâ€‘F CRISPRâ€‘associated endoribonuclease Cas6/Csy4
+L,B6,W,KBH770,RA,3720273,G>A,R122C(CGT>TGT),PA14_RS16900<,phosphoenolpyruvate synthase
+L,B6,W,KBH770,RA,3913073,T>C,T86A(ACC>GCC),PA14_RS17855<,succinylâ€‘CoA ligase subunit beta
+L,B6,W,KBH770,RA,3918515,G>A,R251C(CGC>TGC),PA14_RS17870<,2â€‘oxoglutarate dehydrogenase subunit E1
+L,B6,W,KBH770,RA,5348824,T>C,Y271Y(TAT>TAC),PA14_RS24515>,ATPâ€‘dependent endonuclease
+L,B6,W,KBH770,RA,5482501,(C)8>9,intergenic(â€‘92/+165),PA14_RS25090</<PA14_RS25095,VOC family protein/hypothetical protein
+L,B6,W,KBH770,RA,5821672,T>C,D467G(GAC>GGC),PA14_RS26710<,DNA mismatch repair protein MutL
+L,B6,W,KBH770,RA,5943657,C>T,intergenic(â€‘114/+111),PA14_RS27165</<PA14_RS27170,glutamate synthase large subunit/hypothetical protein
+L,B6,W,KBH770,RA,6231409,G>A,S21S(AGC>AGT),PA14_RS28475<,haloacid dehalogenaseâ€‘like hydrolase
+S,A2,W,KBH771,RA,62601,C>T,R164H(CGC>CAC),PA14_RS00255<,hypothetical protein
+S,A2,W,KBH771,RA,282530,A>G,intergenic(â€‘115/+35),PA14_RS29980</<PA14_RS01295,DUF2875 domainâ€‘containing protein/DUF3274 domainâ€‘containing protein
+S,A2,W,KBH771,RA,343654,A>G,F127L(TTC>CTC),aguA<,agmatine deiminase
+S,A2,W,KBH771,RA,464793,C>T,intergenic(+9/â€‘38),PA14_RS02165>/>PA14_RS02170,protein PilG/twoâ€‘component system response regulator
+S,A2,W,KBH771,RA,582163,A>G,V136A(GTT>GCT),PA14_RS02660<,cytochrome c
+S,A2,W,KBH771,RA,696925,C>T,Q213*(CAA>TAA),PA14_RS03255>,hypothetical protein
+S,A2,W,KBH771,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+S,A2,W,KBH771,RA,1150897,T>C,T143A(ACG>GCG),PA14_RS05385<,DUF4123 domainâ€‘containing protein
+S,A2,W,KBH771,RA,1160184,T>C,V235A(GTC>GCC),PA14_RS05425>,EamA family transporter
+S,A2,W,KBH771,RA,1165319,C>T,T387T(ACC>ACT),PA14_RS05445>,FUSC family protein
+S,A2,W,KBH771,RA,1542593,(G)7>8,coding(10/756nt),PA14_RS07210<,DeoR family transcriptional regulator
+S,A2,W,KBH771,RA,2087728,A>G,Q44R(CAG>CGG),gspG>,type II secretion system protein GspG
+S,A2,W,KBH771,RA,2407284,A>G,E65G(GAA>GGA),PA14_RS11255>,glutathione Sâ€‘transferase
+S,A2,W,KBH771,RA,2705564,C>T,G29D(GGC>GAC),PA14_RS12725<,ATPase
+S,A2,W,KBH771,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,A2,W,KBH771,RA,2888039,C>T,A642V(GCC>GTC),gcvP>,glycine dehydrogenase (decarboxylating)
+S,A2,W,KBH771,RA,2949810,A>G,E188G(GAG>GGG),PA14_RS13660>,thioesterase
+S,A2,W,KBH771,RA,3482105,T>C,V327A(GTT>GCT),brnQ>,branchedâ€‘chain amino acid transport system 3 carrier protein
+S,A2,W,KBH771,RA,3506782,G>A,R22H(CGC>CAC),PA14_RS15990>,GNAT family acetyltransferase
+S,A2,W,KBH771,RA,3932019,C>T,intergenic(â€‘82/+68),PA14_RS17950</<PA14_RS30660,LysR family transcriptional regulator/hypothetical protein
+S,A2,W,KBH771,RA,4436587,C>T,P386L(CCG>CTG),PA14_RS20260>,GGDEF domainâ€‘containing protein
+S,A2,W,KBH771,RA,4479398,G>A,R237*(CGA>TGA),PA14_RS20450<,flagellar Pâ€‘ring protein
+S,A2,W,KBH771,RA,4542238,T>C,S232G(AGC>GGC),PA14_RS20770<,enoylâ€‘CoA hydratase/isomerase family protein
+S,A2,W,KBH771,RA,4651969,T>C,S61P(TCC>CCC),PA14_RS21340>,30S ribosomal protein S12 methylthiotransferase RimO
+S,A2,W,KBH771,RA,4721938,A>G,T271A(ACC>GCC),PA14_RS21685>,serine/threonine dehydratase
+S,A2,W,KBH771,RA,4993024,(C)8>9,coding(51/1251nt),PA14_RS22820<,secretin
+S,A2,W,KBH771,RA,5042579,G>A,R80R(CGG>CGA),PA14_RS23055>,GNAT family Nâ€‘acetyltransferase
+S,A2,W,KBH771,RA,5203891,T>C,V470A(GTC>GCC),PA14_RS23820>,outer membrane porin OprD family
+S,A2,W,KBH771,RA,5464142,T>C,Q238R(CAG>CGG),PA14_RS25000<,hypothetical protein
+S,A2,W,KBH771,RA,5566754,T>C,T60A(ACC>GCC),PA14_RS25500<,alanine transaminase
+S,A2,W,KBH771,RA,5596224,G>A,G395G(GGC>GGT),pnp<,polyribonucleotide nucleotidyltransferase
+S,A2,W,KBH771,RA,5920718,T>C,V545A(GTG>GCG),PA14_RS27090>,K+/H+ antiporter NhaP2
+S,A2,W,KBH771,RA,5999670,(C)6>7,coding(2066/2238nt),PA14_RS27425<,hypothetical protein
+S,A1,W,KBH772,RA,62601,C>T,R164H(CGC>CAC),PA14_RS00255<,hypothetical protein
+S,A1,W,KBH772,RA,464793,C>T,intergenic(+9/â€‘38),PA14_RS02165>/>PA14_RS02170,protein PilG/twoâ€‘component system response regulator
+S,A1,W,KBH772,RA,582163,A>G,V136A(GTT>GCT),PA14_RS02660<,cytochrome c
+S,A1,W,KBH772,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+S,A1,W,KBH772,RA,1150897,T>C,T143A(ACG>GCG),PA14_RS05385<,DUF4123 domainâ€‘containing protein
+S,A1,W,KBH772,RA,1312722,A>G,E23G(GAG>GGG),PA14_RS06195>,conjugal transfer protein TrbJ
+S,A1,W,KBH772,RA,1327756,(C)7>6,intergenic(+345/â€‘256),PA14_RS06255>/>PA14_RS06260,hypothetical protein/oxidoreductase
+S,A1,W,KBH772,RA,1355343,A>G,H221R(CAT>CGT),PA14_RS06370>,lysophospholipase
+S,A1,W,KBH772,RA,1361258,G>A,A72T(GCT>ACT),PA14_RS06395>,30S ribosomal protein S16
+S,A1,W,KBH772,RA,1410319,A>G,T195A(ACC>GCC),PA14_RS06605>,hybrid sensor histidine kinase/response regulator
+S,A1,W,KBH772,RA,1460551,C>T,G449R(GGG>AGG),PA14_RS06835<,bifunctional uridylyltransferase/uridylylâ€‘removing protein
+S,A1,W,KBH772,RA,1785027,A>G,V83A(GTC>GCC),flgA<,flagella basal body Pâ€‘ring formation protein FlgA
+S,A1,W,KBH772,RA,1816030,G>A,R216C(CGC>TGC),PA14_RS08450<,nonâ€‘ribosomal peptide synthetase
+S,A1,W,KBH772,RA,1997004,C>T,T110I(ACC>ATC),PA14_RS09325>,porin
+S,A1,W,KBH772,RA,2101963,C>T,P212S(CCG>TCG),PA14_RS09805>,NAD kinase
+S,A1,W,KBH772,RA,2349691,A>G,L28P(CTG>CCG),PA14_RS10925<,methylâ€‘accepting chemotaxis protein
+S,A1,W,KBH772,RA,2656733,G>A,S195S(TCG>TCA),PA14_RS12500>,excinuclease ABC subunit C
+S,A1,W,KBH772,RA,2705564,C>T,G29D(GGC>GAC),PA14_RS12725<,ATPase
+S,A1,W,KBH772,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,A1,W,KBH772,RA,2888039,C>T,A642V(GCC>GTC),gcvP>,glycine dehydrogenase (decarboxylating)
+S,A1,W,KBH772,RA,3146704,C>T,intergenic(+85/+18),PA14_RS14395>/<PA14_RS14400,LysR family transcriptional regulator/cytochrome c4
+S,A1,W,KBH772,RA,3267259,T>C,L136P(CTG>CCG),PA14_RS14930>,EEP domainâ€‘containing protein
+S,A1,W,KBH772,RA,3401195,T>C,N262D(AAC>GAC),PA14_RS15495<,APC family permease
+S,A1,W,KBH772,RA,3482105,T>C,V327A(GTT>GCT),brnQ>,branchedâ€‘chain amino acid transport system 3 carrier protein
+S,A1,W,KBH772,RA,3917948,T>C,T440A(ACC>GCC),PA14_RS17870<,2â€‘oxoglutarate dehydrogenase subunit E1
+S,A1,W,KBH772,RA,3985277,G>A,intergenic(+8/â€‘212),PA14_RS18180>/>xdhA,alkane 1â€‘monooxygenase/xanthine dehydrogenase small subunit
+S,A1,W,KBH772,RA,4245311,G>A,G348G(GGC>GGT),PA14_RS19390<,cobyric acid synthase CobQ
+S,A1,W,KBH772,RA,4436587,C>T,P386L(CCG>CTG),PA14_RS20260>,GGDEF domainâ€‘containing protein
+S,A1,W,KBH772,RA,4542238,T>C,S232G(AGC>GGC),PA14_RS20770<,enoylâ€‘CoA hydratase/isomerase family protein
+S,A1,W,KBH772,RA,4721938,A>G,T271A(ACC>GCC),PA14_RS21685>,serine/threonine dehydratase
+S,A1,W,KBH772,RA,4903822,T>C,F48L(TTC>CTC),PA14_RS22505>,MFS transporter
+S,A1,W,KBH772,RA,5203891,T>C,V470A(GTC>GCC),PA14_RS23820>,outer membrane porin OprD family
+S,A1,W,KBH772,RA,5566754,T>C,T60A(ACC>GCC),PA14_RS25500<,alanine transaminase
+S,A1,W,KBH772,RA,5596224,G>A,G395G(GGC>GGT),pnp<,polyribonucleotide nucleotidyltransferase
+S,A1,W,KBH772,RA,5962938,G>A,A531T(GCC>ACC),PA14_RS27240>,arginineâ€‘â€‘tRNA ligase
+S,A1,W,KBH772,RA,5999670,(C)6>7,coding(2066/2238nt),PA14_RS27425<,hypothetical protein
+S,C4,W,KBH773,RA,27388,A>G,E219E(GAA>GAG),PA14_RS00125>,shikimate dehydrogenase
+S,C4,W,KBH773,RA,62601,C>T,R164H(CGC>CAC),PA14_RS00255<,hypothetical protein
+S,C4,W,KBH773,RA,464793,C>T,intergenic(+9/â€‘38),PA14_RS02165>/>PA14_RS02170,protein PilG/twoâ€‘component system response regulator
+S,C4,W,KBH773,RA,500524,A>G,T270T(ACA>ACG),PA14_RS02295>,TonBâ€‘dependent siderophore receptor
+S,C4,W,KBH773,RA,582163,A>G,V136A(GTT>GCT),PA14_RS02660<,cytochrome c
+S,C4,W,KBH773,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+S,C4,W,KBH773,RA,1150897,T>C,T143A(ACG>GCG),PA14_RS05385<,DUF4123 domainâ€‘containing protein
+S,C4,W,KBH773,RA,1407079,C>T,P479S(CCG>TCG),PA14_RS06585>,methylâ€‘accepting chemotaxis protein
+S,C4,W,KBH773,RA,1516804,C>T,G43S(GGC>AGC),PA14_RS07090<,polyamine ABC transporter ATPâ€‘binding protein
+S,C4,W,KBH773,RA,1568646,T>C,V371A(GTC>GCC),PA14_RS07335>,PTS fructose transporter subunit IIBC
+S,C4,W,KBH773,RA,1635497,(C)9>8,coding(73/1035nt),PA14_RS07605<,hypothetical protein
+S,C4,W,KBH773,RA,1839958,(G)5>6,coding(170/2847nt),PA14_RS08545<,RNA polymeraseâ€‘associated protein RapA
+S,C4,W,KBH773,RA,2076179,C>T,G194G(GGC>GGT),PA14_RS09675>,bifunctional tetrahydrofolate synthase/dihydrofolate synthase
+S,C4,W,KBH773,RA,2561396,C>T,P141S(CCA>TCA),PA14_RS12050>,type II secretion system protein
+S,C4,W,KBH773,RA,2705564,C>T,G29D(GGC>GAC),PA14_RS12725<,ATPase
+S,C4,W,KBH773,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,C4,W,KBH773,RA,2887491,C>T,A459A(GCC>GCT),gcvP>,glycine dehydrogenase (decarboxylating)
+S,C4,W,KBH773,RA,2888039,C>T,A642V(GCC>GTC),gcvP>,glycine dehydrogenase (decarboxylating)
+S,C4,W,KBH773,RA,3402314,G>A,P400S(CCG>TCG),PA14_RS15500<,glutamine synthetase
+S,C4,W,KBH773,RA,3482105,T>C,V327A(GTT>GCT),brnQ>,branchedâ€‘chain amino acid transport system 3 carrier protein
+S,C4,W,KBH773,RA,4348471,G>A,A181A(GCC>GCT),PA14_RS19860<,hypothetical protein
+S,C4,W,KBH773,RA,4436587,C>T,P386L(CCG>CTG),PA14_RS20260>,GGDEF domainâ€‘containing protein
+S,C4,W,KBH773,RA,4542238,T>C,S232G(AGC>GGC),PA14_RS20770<,enoylâ€‘CoA hydratase/isomerase family protein
+S,C4,W,KBH773,RA,4721938,A>G,T271A(ACC>GCC),PA14_RS21685>,serine/threonine dehydratase
+S,C4,W,KBH773,RA,5115122,C>T,A347A(GCG>GCA),PA14_RS23400<,UDPâ€‘Nâ€‘acetylmuramoylâ€‘Lâ€‘alanylâ€‘Dâ€‘glutamateâ€‘â€‘2 6â€‘diaminopimelate ligase
+S,C4,W,KBH773,RA,5120919,(C)8>7,coding(222/849nt),rsmI<,rRNA (cytidineâ€‘2'â€‘Oâ€‘)â€‘methyltransferase
+S,C4,W,KBH773,RA,5186759,T>C,D592G(GAC>GGC),PA14_RS23760<,hypothetical protein
+S,C4,W,KBH773,RA,5203891,T>C,V470A(GTC>GCC),PA14_RS23820>,outer membrane porin OprD family
+S,C4,W,KBH773,RA,5566754,T>C,T60A(ACC>GCC),PA14_RS25500<,alanine transaminase
+S,C4,W,KBH773,RA,5596224,G>A,G395G(GGC>GGT),pnp<,polyribonucleotide nucleotidyltransferase
+S,C4,W,KBH773,RA,5999670,(C)6>7,coding(2066/2238nt),PA14_RS27425<,hypothetical protein
+L,B6,W,KBH774,RA,309340,C>T,T41T(ACG>ACA),PA14_RS01390<,XRE family transcriptional regulator
+L,B6,W,KBH774,RA,479729,G>A,P336S(CCC>TCC),PA14_RS02215<,hypothetical protein
+L,B6,W,KBH774,RA,493488,C>T,E357K(GAA>AAA),PA14_RS02265<,DEAD/DEAH box helicase
+L,B6,W,KBH774,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+L,B6,W,KBH774,RA,957143,G>A,G111D(GGC>GAC),PA14_RS04460>,type 1 fimbrial protein
+L,B6,W,KBH774,RA,1015333,(G)6>7,intergenic(â€‘56/â€‘138),PA14_RS04745</>PA14_RS04750,hypothetical protein/protein kinase
+L,B6,W,KBH774,RA,1119361,A>G,N488S(AAC>AGC),PA14_RS05245>,cytochrome ubiquinol oxidase subunit I
+L,B6,W,KBH774,RA,1758616,A>G,T158A(ACG>GCG),PA14_RS08195>,phosphonate metabolism protein PhnP
+L,B6,W,KBH774,RA,1783553,A>G,M1A(GTG>GCG)â€ ,PA14_RS08320<,hypothetical protein
+L,B6,W,KBH774,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+L,B6,W,KBH774,RA,2927599,T>C,H161R(CAC>CGC),cas6f<,type Iâ€‘F CRISPRâ€‘associated endoribonuclease Cas6/Csy4
+L,B6,W,KBH774,RA,3720273,G>A,R122C(CGT>TGT),PA14_RS16900<,phosphoenolpyruvate synthase
+L,B6,W,KBH774,RA,3913073,T>C,T86A(ACC>GCC),PA14_RS17855<,succinylâ€‘CoA ligase subunit beta
+L,B6,W,KBH774,RA,4968474,G>A,S57S(AGC>AGT),recB<,exodeoxyribonuclease V subunit beta
+L,B6,W,KBH774,RA,5348824,T>C,Y271Y(TAT>TAC),PA14_RS24515>,ATPâ€‘dependent endonuclease
+L,B6,W,KBH774,RA,5415119,A>G,R138R(CGT>CGC),PA14_RS24815<,transporter
+L,B6,W,KBH774,RA,5482501,(C)8>9,intergenic(â€‘92/+165),PA14_RS25090</<PA14_RS25095,VOC family protein/hypothetical protein
+L,B6,W,KBH774,RA,5821672,T>C,D467G(GAC>GGC),PA14_RS26710<,DNA mismatch repair protein MutL
+L,B6,W,KBH774,RA,5919961,(C)6>7,coding(877/1743nt),PA14_RS27090>,K+/H+ antiporter NhaP2
+L,B6,W,KBH774,RA,5943657,C>T,intergenic(â€‘114/+111),PA14_RS27165</<PA14_RS27170,glutamate synthase large subunit/hypothetical protein
+L,B6,W,KBH774,RA,6231409,G>A,S21S(AGC>AGT),PA14_RS28475<,haloacid dehalogenaseâ€‘like hydrolase
+S,C6,W,KBH775,RA,62601,C>T,R164H(CGC>CAC),PA14_RS00255<,hypothetical protein
+S,C6,W,KBH775,RA,464793,C>T,intergenic(+9/â€‘38),PA14_RS02165>/>PA14_RS02170,protein PilG/twoâ€‘component system response regulator
+S,C6,W,KBH775,RA,492752,A>G,V602A(GTG>GCG),PA14_RS02265<,DEAD/DEAH box helicase
+S,C6,W,KBH775,RA,582163,A>G,V136A(GTT>GCT),PA14_RS02660<,cytochrome c
+S,C6,W,KBH775,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+S,C6,W,KBH775,RA,1150897,T>C,T143A(ACG>GCG),PA14_RS05385<,DUF4123 domainâ€‘containing protein
+S,C6,W,KBH775,RA,1357237,G>A,P371L(CCG>CTG),PA14_RS06380<,HlyC/CorC family transporter
+S,C6,W,KBH775,RA,1406447,A>G,Q268R(CAG>CGG),PA14_RS06585>,methylâ€‘accepting chemotaxis protein
+S,C6,W,KBH775,RA,1542593,(G)7>8,coding(10/756nt),PA14_RS07210<,DeoR family transcriptional regulator
+S,C6,W,KBH775,RA,1778195,C>T,G286D(GGC>GAC),dsdA<,Dâ€‘serine dehydratase
+S,C6,W,KBH775,RA,1969799,C>T,A287A(GCC>GCT),PA14_RS09175>,AraC family transcriptional regulator
+S,C6,W,KBH775,RA,1992511,C>T,A69V(GCG>GTG),PA14_RS09305>,carbohydrate ABC transporter substrateâ€‘binding protein
+S,C6,W,KBH775,RA,2404461,A>G,S564S(AGT>AGC),fadE<,acylâ€‘CoA dehydrogenase
+S,C6,W,KBH775,RA,2560950,(C)7>8,coding(385/411nt),PA14_RS12045>,type II secretion system protein
+S,C6,W,KBH775,RA,2620624,T>C,S33G(AGC>GGC),PA14_RS12330<,arginylâ€‘tRNAâ€‘protein transferase
+S,C6,W,KBH775,RA,2705564,C>T,G29D(GGC>GAC),PA14_RS12725<,ATPase
+S,C6,W,KBH775,RA,2773920,G>A,A197T(GCC>ACC),PA14_RS13045>,multidrug transporter subunit MdtB
+S,C6,W,KBH775,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,C6,W,KBH775,RA,2825778,G>A,A328A(GCG>GCA),PA14_RS13265>,LLM class flavinâ€‘dependent oxidoreductase
+S,C6,W,KBH775,RA,2888039,C>T,A642V(GCC>GTC),gcvP>,glycine dehydrogenase (decarboxylating)
+S,C6,W,KBH775,RA,3482105,T>C,V327A(GTT>GCT),brnQ>,branchedâ€‘chain amino acid transport system 3 carrier protein
+S,C6,W,KBH775,RA,4349927,(C)6>7,coding(771/1320nt),PA14_RS19870<,hypothetical protein
+S,C6,W,KBH775,RA,4436587,C>T,P386L(CCG>CTG),PA14_RS20260>,GGDEF domainâ€‘containing protein
+S,C6,W,KBH775,RA,4542238,T>C,S232G(AGC>GGC),PA14_RS20770<,enoylâ€‘CoA hydratase/isomerase family protein
+S,C6,W,KBH775,RA,4657338,G>A,P37L(CCG>CTG),PA14_RS21370<,hypothetical protein
+S,C6,W,KBH775,RA,4661319,A>G,V228A(GTG>GCG),PA14_RS21415<,aspartokinase
+S,C6,W,KBH775,RA,4721938,A>G,T271A(ACC>GCC),PA14_RS21685>,serine/threonine dehydratase
+S,C6,W,KBH775,RA,4893576,(C)6>7,coding(517/1206nt),PA14_RS22440>,hypothetical protein
+S,C6,W,KBH775,RA,5203891,T>C,V470A(GTC>GCC),PA14_RS23820>,outer membrane porin OprD family
+S,C6,W,KBH775,RA,5363700,G>A,R195W(CGG>TGG),PA14_RS24570<,ribosomal large subunit pseudouridine synthase D
+S,C6,W,KBH775,RA,5566754,T>C,T60A(ACC>GCC),PA14_RS25500<,alanine transaminase
+S,C6,W,KBH775,RA,5596224,G>A,G395G(GGC>GGT),pnp<,polyribonucleotide nucleotidyltransferase
+S,C6,W,KBH775,RA,5999670,(C)6>7,coding(2066/2238nt),PA14_RS27425<,hypothetical protein
+S,C6,W,KBH775,RA,6509706,(C)6>7,coding(1790/2025nt),PA14_RS29765<,C4â€‘dicarboxylate ABC transporter
+S,A5,W,KBH776,RA,62601,C>T,R164H(CGC>CAC),PA14_RS00255<,hypothetical protein
+S,A5,W,KBH776,RA,464793,C>T,intergenic(+9/â€‘38),PA14_RS02165>/>PA14_RS02170,protein PilG/twoâ€‘component system response regulator
+S,A5,W,KBH776,RA,504965,A>G,F149L(TTC>CTC),PA14_RS02310<,cytosine deaminase
+S,A5,W,KBH776,RA,582163,A>G,V136A(GTT>GCT),PA14_RS02660<,cytochrome c
+S,A5,W,KBH776,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+S,A5,W,KBH776,RA,1058750,C>T,G15G(GGC>GGT),PA14_RS04965>,membrane protein
+S,A5,W,KBH776,RA,1150897,T>C,T143A(ACG>GCG),PA14_RS05385<,DUF4123 domainâ€‘containing protein
+S,A5,W,KBH776,RA,1197810,T>C,S522S(AGT>AGC),PA14_RS05595>,Sâ€‘type pyocin protein
+S,A5,W,KBH776,RA,1298327,A>G,D212G(GAC>GGC),PA14_RS06100>,IMP dehydrogenase
+S,A5,W,KBH776,RA,1542593,(G)7>6,coding(10/756nt),PA14_RS07210<,DeoR family transcriptional regulator
+S,A5,W,KBH776,RA,2400583,G>A,P52L(CCG>CTG),PA14_RS11215<,hypothetical protein
+S,A5,W,KBH776,RA,2705564,C>T,G29D(GGC>GAC),PA14_RS12725<,ATPase
+S,A5,W,KBH776,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,A5,W,KBH776,RA,2888039,C>T,A642V(GCC>GTC),gcvP>,glycine dehydrogenase (decarboxylating)
+S,A5,W,KBH776,RA,3482105,T>C,V327A(GTT>GCT),brnQ>,branchedâ€‘chain amino acid transport system 3 carrier protein
+S,A5,W,KBH776,RA,4436587,C>T,P386L(CCG>CTG),PA14_RS20260>,GGDEF domainâ€‘containing protein
+S,A5,W,KBH776,RA,4479398,G>A,R237*(CGA>TGA),PA14_RS20450<,flagellar Pâ€‘ring protein
+S,A5,W,KBH776,RA,4542238,T>C,S232G(AGC>GGC),PA14_RS20770<,enoylâ€‘CoA hydratase/isomerase family protein
+S,A5,W,KBH776,RA,4721938,A>G,T271A(ACC>GCC),PA14_RS21685>,serine/threonine dehydratase
+S,A5,W,KBH776,RA,5203891,T>C,V470A(GTC>GCC),PA14_RS23820>,outer membrane porin OprD family
+S,A5,W,KBH776,RA,5566754,T>C,T60A(ACC>GCC),PA14_RS25500<,alanine transaminase
+S,A5,W,KBH776,RA,5596224,G>A,G395G(GGC>GGT),pnp<,polyribonucleotide nucleotidyltransferase
+S,A5,W,KBH776,RA,5999670,(C)6>7,coding(2066/2238nt),PA14_RS27425<,hypothetical protein
+S,A6,W,KBH777,RA,62601,C>T,R164H(CGC>CAC),PA14_RS00255<,hypothetical protein
+S,A6,W,KBH777,RA,464793,C>T,intergenic(+9/â€‘38),PA14_RS02165>/>PA14_RS02170,protein PilG/twoâ€‘component system response regulator
+S,A6,W,KBH777,RA,582163,A>G,V136A(GTT>GCT),PA14_RS02660<,cytochrome c
+S,A6,W,KBH777,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+S,A6,W,KBH777,RA,782639,A>G,L39P(CTG>CCG),PA14_RS03750<,thioesterase
+S,A6,W,KBH777,RA,876060,C>T,R222C(CGC>TGC),PA14_RS04120>,TonBâ€‘dependent receptor
+S,A6,W,KBH777,RA,966637,A>G,intergenic(+497/â€‘148),PA14_RS04485>/>PA14_RS04490,type 1 fimbrial protein/DNAâ€‘binding response regulator
+S,A6,W,KBH777,RA,1150897,T>C,T143A(ACG>GCG),PA14_RS05385<,DUF4123 domainâ€‘containing protein
+S,A6,W,KBH777,RA,1642431,C>T,A310T(GCC>ACC),PA14_RS07625<,hypothetical protein
+S,A6,W,KBH777,RA,1701525,G>A,E13E(GAG>GAA),PA14_RS07905>,hypothetical protein
+S,A6,W,KBH777,RA,1749088,C>T,A267V(GCG>GTG),phnC>,phosphonates import ATPâ€‘binding protein PhnC 1
+S,A6,W,KBH777,RA,2705564,C>T,G29D(GGC>GAC),PA14_RS12725<,ATPase
+S,A6,W,KBH777,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,A6,W,KBH777,RA,2789748,A>G,pseudogene(2892/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,A6,W,KBH777,RA,2888039,C>T,A642V(GCC>GTC),gcvP>,glycine dehydrogenase (decarboxylating)
+S,A6,W,KBH777,RA,3029609,A>G,L34P(CTG>CCG),PA14_RS13895<,type VI secretion system contractile sheath small subunit
+S,A6,W,KBH777,RA,3482105,T>C,V327A(GTT>GCT),brnQ>,branchedâ€‘chain amino acid transport system 3 carrier protein
+S,A6,W,KBH777,RA,3514707,T>C,Y539H(TAT>CAT),PA14_RS16005>,hypothetical protein
+S,A6,W,KBH777,RA,3805306,T>C,L68P(CTG>CCG),PA14_RS17375>,hypothetical protein
+S,A6,W,KBH777,RA,3994261,(C)9>8,intergenic(+129/+113),PA14_RS18210>/<uraH,NCS2 family permease/5â€‘hydroxyisourate hydrolase
+S,A6,W,KBH777,RA,4214219,+C,coding(89/1116nt),phnW<,2â€‘aminoethylphosphonateâ€‘â€‘pyruvate aminotransferase
+S,A6,W,KBH777,RA,4436587,C>T,P386L(CCG>CTG),PA14_RS20260>,GGDEF domainâ€‘containing protein
+S,A6,W,KBH777,RA,4542238,T>C,S232G(AGC>GGC),PA14_RS20770<,enoylâ€‘CoA hydratase/isomerase family protein
+S,A6,W,KBH777,RA,4715016,T>C,E43E(GAA>GAG),PA14_RS21650<,hypothetical protein
+S,A6,W,KBH777,RA,4721938,A>G,T271A(ACC>GCC),PA14_RS21685>,serine/threonine dehydratase
+S,A6,W,KBH777,RA,4785570,T>C,Y347H(TAC>CAC),acnD>,Fe/Sâ€‘dependent 2â€‘methylisocitrate dehydratase AcnD
+S,A6,W,KBH777,RA,4829948,A>G,A113A(GCA>GCG),PA14_RS22170>,folateâ€‘binding protein
+S,A6,W,KBH777,RA,4920817,T>C,T3206A(ACC>GCC),PA14_RS22575<,hemagglutinin
+S,A6,W,KBH777,RA,5203891,T>C,V470A(GTC>GCC),PA14_RS23820>,outer membrane porin OprD family
+S,A6,W,KBH777,RA,5566754,T>C,T60A(ACC>GCC),PA14_RS25500<,alanine transaminase
+S,A6,W,KBH777,RA,5596224,G>A,G395G(GGC>GGT),pnp<,polyribonucleotide nucleotidyltransferase
+S,A6,W,KBH777,RA,5919473,G>A,G130D(GGC>GAC),PA14_RS27090>,K+/H+ antiporter NhaP2
+S,A6,W,KBH777,RA,5999670,(C)6>7,coding(2066/2238nt),PA14_RS27425<,hypothetical protein
+S,A6,W,KBH777,RA,6403107,A>G,L242P(CTG>CCG),PA14_RS29255<,GGDEF domainâ€‘containing protein
+S,A3,W,KBH778,RA,34569,G>A,intergenic(â€‘37/â€‘76),betC</>PA14_RS00160,cholineâ€‘sulfatase/LysR family transcriptional regulator
+S,A3,W,KBH778,RA,62601,C>T,R164H(CGC>CAC),PA14_RS00255<,hypothetical protein
+S,A3,W,KBH778,RA,215412,T>C,D49G(GAC>GGC),PA14_RS00965<,LysR family transcriptional regulator
+S,A3,W,KBH778,RA,464793,C>T,intergenic(+9/â€‘38),PA14_RS02165>/>PA14_RS02170,protein PilG/twoâ€‘component system response regulator
+S,A3,W,KBH778,RA,494777,(G)7>6,intergenic(â€‘221/+30),PA14_RS02265</<PA14_RS02270,DEAD/DEAH box helicase/hypothetical protein
+S,A3,W,KBH778,RA,582163,A>G,V136A(GTT>GCT),PA14_RS02660<,cytochrome c
+S,A3,W,KBH778,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+S,A3,W,KBH778,RA,908032,C>T,V171M(GTG>ATG),ccoG<,cytochrome c oxidase accessory protein CcoG
+S,A3,W,KBH778,RA,955961,C>T,R127R(CGG>CGA),PA14_RS04455<,molybdenum cofactor biosynthesis protein F
+S,A3,W,KBH778,RA,1132633,C>T,intergenic(+12/+20),PA14_RS05290>/<PA14_RS05295,transcriptional regulator/copperâ€‘translocating Pâ€‘type ATPase
+S,A3,W,KBH778,RA,1150897,T>C,T143A(ACG>GCG),PA14_RS05385<,DUF4123 domainâ€‘containing protein
+S,A3,W,KBH778,RA,1184510,A>G,T302A(ACC>GCC),PA14_RS05545>,nitrate reductase subunit alpha
+S,A3,W,KBH778,RA,1597872,A>G,V103A(GTC>GCC),PA14_RS07445<,ABC transporter ATPâ€‘binding protein
+S,A3,W,KBH778,RA,1985315,(A)5>6,intergenic(+104/â€‘11),PA14_RS09270>/>PA14_RS09275,hypothetical protein/DUF1289 domainâ€‘containing protein
+S,A3,W,KBH778,RA,2417207,G>A,G172S(GGT>AGT),PA14_RS11320>,lipoprotein
+S,A3,W,KBH778,RA,2705564,C>T,G29D(GGC>GAC),PA14_RS12725<,ATPase
+S,A3,W,KBH778,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,A3,W,KBH778,RA,2888039,C>T,A642V(GCC>GTC),gcvP>,glycine dehydrogenase (decarboxylating)
+S,A3,W,KBH778,RA,3302242,T>C,F163L(TTC>CTC),PA14_RS15090>,phosphoadenosine phosphosulfate reductase
+S,A3,W,KBH778,RA,3347653,T>C,L66P(CTG>CCG),PA14_RS15305>,amino acid permease
+S,A3,W,KBH778,RA,3482105,T>C,V327A(GTT>GCT),brnQ>,branchedâ€‘chain amino acid transport system 3 carrier protein
+S,A3,W,KBH778,RA,4068306,A>G,V123A(GTG>GCG),fliR<,flagellar type III secretion system protein FliR
+S,A3,W,KBH778,RA,4436587,C>T,P386L(CCG>CTG),PA14_RS20260>,GGDEF domainâ€‘containing protein
+S,A3,W,KBH778,RA,4542238,T>C,S232G(AGC>GGC),PA14_RS20770<,enoylâ€‘CoA hydratase/isomerase family protein
+S,A3,W,KBH778,RA,4721938,A>G,T271A(ACC>GCC),PA14_RS21685>,serine/threonine dehydratase
+S,A3,W,KBH778,RA,5203891,T>C,V470A(GTC>GCC),PA14_RS23820>,outer membrane porin OprD family
+S,A3,W,KBH778,RA,5247098,G>A,A49T(GCC>ACC),PA14_RS24030>,hypothetical protein
+S,A3,W,KBH778,RA,5311621,T>C,F505L(TTC>CTC),traD>,conjugative coupling factor TraD PFGIâ€‘1 class
+S,A3,W,KBH778,RA,5333903,T>C,T100T(ACT>ACC),PA14_RS24440>,TIGR03746 family integrating conjugative element protein
+S,A3,W,KBH778,RA,5566754,T>C,T60A(ACC>GCC),PA14_RS25500<,alanine transaminase
+S,A3,W,KBH778,RA,5596224,G>A,G395G(GGC>GGT),pnp<,polyribonucleotide nucleotidyltransferase
+S,A3,W,KBH778,RA,5675752,G>A,G603E(GGG>GAG),fadH>,NADPHâ€‘dependent 24â€‘dienoylâ€‘CoA reductase
+S,A3,W,KBH778,RA,5999670,(C)6>7,coding(2066/2238nt),PA14_RS27425<,hypothetical protein
+S,A3,W,KBH778,RA,6515441,T>C,I115T(ATC>ACC),PA14_RS29785>,MFS transporter
+S,A1,White,KBH781,RA,62601,C>T,R164H(CGC>CAC),PA14_RS00255<,hypothetical protein
+S,A1,White,KBH781,RA,315458,T>C,S34P(TCC>CCC),PA14_RS01430>,5â€‘aminovalerate aminotransferase DavT
+S,A1,White,KBH781,RA,464793,C>T,intergenic(+9/â€‘38),PA14_RS02165>/>PA14_RS02170,protein PilG/twoâ€‘component system response regulator
+S,A1,White,KBH781,RA,582163,A>G,V136A(GTT>GCT),PA14_RS02660<,cytochrome c
+S,A1,White,KBH781,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+S,A1,White,KBH781,RA,1112814,C>T,H526H(CAC>CAT),PA14_RS05225>,oligopeptide transporter OPT family
+S,A1,White,KBH781,RA,1150897,T>C,T143A(ACG>GCG),PA14_RS05385<,DUF4123 domainâ€‘containing protein
+S,A1,White,KBH781,RA,1319517,A>G,D704G(GAC>GGC),PA14_RS06230>,class I SAMâ€‘dependent DNA methyltransferase
+S,A1,White,KBH781,RA,1634603,(G)6>7,coding(967/1035nt),PA14_RS07605<,hypothetical protein
+S,A1,White,KBH781,RA,1663339,A>G,N358S(AAC>AGC),PA14_RS07715>,ATPâ€‘dependent helicase
+S,A1,White,KBH781,RA,1961832,A>G,T20T(ACA>ACG),PA14_RS09135>,LysR family transcriptional regulator
+S,A1,White,KBH781,RA,2705564,C>T,G29D(GGC>GAC),PA14_RS12725<,ATPase
+S,A1,White,KBH781,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,A1,White,KBH781,RA,2888039,C>T,A642V(GCC>GTC),gcvP>,glycine dehydrogenase (decarboxylating)
+S,A1,White,KBH781,RA,3098714,T>G,F643C(TTC>TGC),PA14_RS14185>,nonâ€‘ribosomal peptide synthetase
+S,A1,White,KBH781,RA,3477031,T>C,G596G(GGA>GGG),pqqF<,pyrroloquinoline quinone biosynthesis protein PqqF
+S,A1,White,KBH781,RA,3482105,T>C,V327A(GTT>GCT),brnQ>,branchedâ€‘chain amino acid transport system 3 carrier protein
+S,A1,White,KBH781,RA,4405266,A>G,V65A(GTT>GCT),PA14_RS20105<,pyocin killing protein
+S,A1,White,KBH781,RA,4436587,C>T,P386L(CCG>CTG),PA14_RS20260>,GGDEF domainâ€‘containing protein
+S,A1,White,KBH781,RA,4460942,C>T,R468H(CGC>CAC),PA14_RS20385<,sigmaâ€‘54â€‘dependent Fis family transcriptional regulator
+S,A1,White,KBH781,RA,4479398,G>A,R237*(CGA>TGA),PA14_RS20450<,flagellar Pâ€‘ring protein
+S,A1,White,KBH781,RA,4542238,T>C,S232G(AGC>GGC),PA14_RS20770<,enoylâ€‘CoA hydratase/isomerase family protein
+S,A1,White,KBH781,RA,4661338,A>G,Y222H(TAC>CAC),PA14_RS21415<,aspartokinase
+S,A1,White,KBH781,RA,4677758,T>C,T22A(ACC>GCC),PA14_RS21485<,arginine/ornithine transporter AotM
+S,A1,White,KBH781,RA,4721938,A>G,T271A(ACC>GCC),PA14_RS21685>,serine/threonine dehydratase
+S,A1,White,KBH781,RA,4738505,C>T,A5T(GCC>ACC),PA14_RS21755<,peptidylâ€‘prolyl cisâ€‘trans isomerase
+S,A1,White,KBH781,RA,4974543,C>T,T187T(ACC>ACT),PA14_RS22740>,AraC family transcriptional regulator
+S,A1,White,KBH781,RA,4993024,(C)8>7,coding(51/1251nt),PA14_RS22820<,secretin
+S,A1,White,KBH781,RA,5089973,G>A,L173L(CTG>CTA),PA14_RS23295>,response regulator
+S,A1,White,KBH781,RA,5203891,T>C,V470A(GTC>GCC),PA14_RS23820>,outer membrane porin OprD family
+S,A1,White,KBH781,RA,5566754,T>C,T60A(ACC>GCC),PA14_RS25500<,alanine transaminase
+S,A1,White,KBH781,RA,5596224,G>A,G395G(GGC>GGT),pnp<,polyribonucleotide nucleotidyltransferase
+S,A1,White,KBH781,RA,5809310,(C)5>4,intergenic(â€‘196/+23),PA14_RS26645</<PA14_RS26650,30S ribosomal protein S6/23S rRNA (guanosine(2251)â€‘2'â€‘O)â€‘methyltransferase RlmB
+S,A1,White,KBH781,RA,5894275,A>G,V60A(GTA>GCA),PA14_RS27005<,glycosyltransferase
+S,A1,White,KBH781,RA,5951375,G>A,A243A(GCC>GCT),PA14_RS27205<,pilus assembly protein PilM
+S,A1,White,KBH781,RA,5999670,(C)6>7,coding(2066/2238nt),PA14_RS27425<,hypothetical protein
+S,A1,White,KBH781,RA,6102470,C>T,P221L(CCG>CTG),PA14_RS27885>,hydrolase
+S,A1,White,KBH781,RA,6367262,G>A,V105V(GTG>GTA),glyA>,serine hydroxymethyltransferase
+S,A1,Blue,KBH782,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+S,A1,Blue,KBH782,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,A2,White,KBH783,RA,62601,C>T,R164H(CGC>CAC),PA14_RS00255<,hypothetical protein
+S,A2,White,KBH783,RA,464793,C>T,intergenic(+9/â€‘38),PA14_RS02165>/>PA14_RS02170,protein PilG/twoâ€‘component system response regulator
+S,A2,White,KBH783,RA,582163,A>G,V136A(GTT>GCT),PA14_RS02660<,cytochrome c
+S,A2,White,KBH783,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+S,A2,White,KBH783,RA,1150897,T>C,T143A(ACG>GCG),PA14_RS05385<,DUF4123 domainâ€‘containing protein
+S,A2,White,KBH783,RA,1403211,A>G,N412S(AAC>AGC),PA14_RS06575>,GMC family oxidoreductase
+S,A2,White,KBH783,RA,1635497,(C)9>10,coding(73/1035nt),PA14_RS07605<,hypothetical protein
+S,A2,White,KBH783,RA,1650722,C>T,L380F(CTC>TTC),PA14_RS07655>,rhamnosyltransferase subunit B
+S,A2,White,KBH783,RA,1849283,A>G,T395A(ACG>GCG),PA14_RS08595>,longâ€‘chainâ€‘fattyâ€‘acidâ€‘â€‘CoA ligase
+S,A2,White,KBH783,RA,1975438,A>G,N90D(AAC>GAC),PA14_RS09205>,YkgJ family cysteine cluster protein
+S,A2,White,KBH783,RA,2127588,A>G,F28L(TTC>CTC),PA14_RS09895<,DUF58 domainâ€‘containing protein
+S,A2,White,KBH783,RA,2705564,C>T,G29D(GGC>GAC),PA14_RS12725<,ATPase
+S,A2,White,KBH783,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,A2,White,KBH783,RA,2888039,C>T,A642V(GCC>GTC),gcvP>,glycine dehydrogenase (decarboxylating)
+S,A2,White,KBH783,RA,3482105,T>C,V327A(GTT>GCT),brnQ>,branchedâ€‘chain amino acid transport system 3 carrier protein
+S,A2,White,KBH783,RA,3790239,(C)6>5,coding(690/1119nt),PA14_RS30640>,type III secretion system needle length determinant
+S,A2,White,KBH783,RA,4182798,C>T,A515V(GCG>GTG),ggt>,gammaâ€‘glutamyltranspeptidase
+S,A2,White,KBH783,RA,4436587,C>T,P386L(CCG>CTG),PA14_RS20260>,GGDEF domainâ€‘containing protein
+S,A2,White,KBH783,RA,4479398,G>A,R237*(CGA>TGA),PA14_RS20450<,flagellar Pâ€‘ring protein
+S,A2,White,KBH783,RA,4542238,T>C,S232G(AGC>GGC),PA14_RS20770<,enoylâ€‘CoA hydratase/isomerase family protein
+S,A2,White,KBH783,RA,4721938,A>G,T271A(ACC>GCC),PA14_RS21685>,serine/threonine dehydratase
+S,A2,White,KBH783,MCJC,4979755,(GCC)4>3,coding(1267â€‘1269/1470nt),PA14_RS22760>,inorganic phosphate transporter
+S,A2,White,KBH783,RA,4993024,(C)8>9,coding(51/1251nt),PA14_RS22820<,secretin
+S,A2,White,KBH783,RA,5203891,T>C,V470A(GTC>GCC),PA14_RS23820>,outer membrane porin OprD family
+S,A2,White,KBH783,RA,5566754,T>C,T60A(ACC>GCC),PA14_RS25500<,alanine transaminase
+S,A2,White,KBH783,RA,5596224,G>A,G395G(GGC>GGT),pnp<,polyribonucleotide nucleotidyltransferase
+S,A2,White,KBH783,RA,5919961,(C)6>7,coding(877/1743nt),PA14_RS27090>,K+/H+ antiporter NhaP2
+S,A2,White,KBH783,RA,5999670,(C)6>7,coding(2066/2238nt),PA14_RS27425<,hypothetical protein
+S,A2,White,KBH783,RA,6044838,G>A,T96T(ACG>ACA),PA14_RS27600>,nitrogen regulation protein NR(II)
+S,A2,White,KBH783,RA,6092770,(C)6>7,intergenic(+482/â€‘316),PA14_RS27845>/>arcD,TRAP transporter large permease/arginineâ€‘ornithine antiporter
+S,A2,Blue,KBH784,RA,647295,A>G,F584L(TTC>CTC),PA14_RS03010<,RNA polymerase sigma factor RpoD
+S,A2,Blue,KBH784,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+S,A2,Blue,KBH784,JC,1250289,Î”4bp,coding(872â€‘875/921nt),secF>,protein translocase subunit SecF
+S,A2,Blue,KBH784,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,A2,Blue,KBH784,RA,5809310,(C)5>4,intergenic(â€‘196/+23),PA14_RS26645</<PA14_RS26650,30S ribosomal protein S6/23S rRNA (guanosine(2251)â€‘2'â€‘O)â€‘methyltransferase RlmB
+S,A3,White,KBH785,RA,62601,C>T,R164H(CGC>CAC),PA14_RS00255<,hypothetical protein
+S,A3,White,KBH785,RA,215412,T>C,D49G(GAC>GGC),PA14_RS00965<,LysR family transcriptional regulator
+S,A3,White,KBH785,RA,464793,C>T,intergenic(+9/â€‘38),PA14_RS02165>/>PA14_RS02170,protein PilG/twoâ€‘component system response regulator
+S,A3,White,KBH785,RA,494777,(G)7>6,intergenic(â€‘221/+30),PA14_RS02265</<PA14_RS02270,DEAD/DEAH box helicase/hypothetical protein
+S,A3,White,KBH785,RA,582163,A>G,V136A(GTT>GCT),PA14_RS02660<,cytochrome c
+S,A3,White,KBH785,RA,889278,A>G,V257A(GTG>GCG),PA14_RS04175<,LysR family transcriptional regulator
+S,A3,White,KBH785,RA,1113080,T>C,V615A(GTG>GCG),PA14_RS05225>,oligopeptide transporter OPT family
+S,A3,White,KBH785,RA,1150897,T>C,T143A(ACG>GCG),PA14_RS05385<,DUF4123 domainâ€‘containing protein
+S,A3,White,KBH785,RA,1184510,A>G,T302A(ACC>GCC),PA14_RS05545>,nitrate reductase subunit alpha
+S,A3,White,KBH785,RA,1546241,A>G,N80S(AAC>AGC),glpK>,glycerol kinase
+S,A3,White,KBH785,RA,1597872,A>G,V103A(GTC>GCC),PA14_RS07445<,ABC transporter ATPâ€‘binding protein
+S,A3,White,KBH785,RA,1985315,(A)5>6,intergenic(+104/â€‘11),PA14_RS09270>/>PA14_RS09275,hypothetical protein/DUF1289 domainâ€‘containing protein
+S,A3,White,KBH785,RA,2101940,C>T,A204V(GCC>GTC),PA14_RS09805>,NAD kinase
+S,A3,White,KBH785,RA,2659243,C>T,intergenic(+530/+209),PA14_RS12510>/<PA14_RS12515,tRNAâ€‘Gly/fimbrial protein
+S,A3,White,KBH785,RA,2705564,C>T,G29D(GGC>GAC),PA14_RS12725<,ATPase
+S,A3,White,KBH785,RA,2710532,C>T,intergenic(+272/+140),PA14_RS30405>/<PA14_RS12760,hypothetical protein/hypothetical protein
+S,A3,White,KBH785,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,A3,White,KBH785,RA,2888039,C>T,A642V(GCC>GTC),gcvP>,glycine dehydrogenase (decarboxylating)
+S,A3,White,KBH785,RA,3302242,T>C,F163L(TTC>CTC),PA14_RS15090>,phosphoadenosine phosphosulfate reductase
+S,A3,White,KBH785,RA,3347653,T>C,L66P(CTG>CCG),PA14_RS15305>,amino acid permease
+S,A3,White,KBH785,RA,3482105,T>C,V327A(GTT>GCT),brnQ>,branchedâ€‘chain amino acid transport system 3 carrier protein
+S,A3,White,KBH785,RA,3573260,G>A,A61A(GCG>GCA),PA14_RS16255>,alpha/beta hydrolase
+S,A3,White,KBH785,RA,4068306,A>G,V123A(GTG>GCG),fliR<,flagellar type III secretion system protein FliR
+S,A3,White,KBH785,RA,4436587,C>T,P386L(CCG>CTG),PA14_RS20260>,GGDEF domainâ€‘containing protein
+S,A3,White,KBH785,RA,4542238,T>C,S232G(AGC>GGC),PA14_RS20770<,enoylâ€‘CoA hydratase/isomerase family protein
+S,A3,White,KBH785,RA,4636622,C>T,A273V(GCG>GTG),PA14_RS21275>,hybrid sensor histidine kinase/response regulator
+S,A3,White,KBH785,RA,4721938,A>G,T271A(ACC>GCC),PA14_RS21685>,serine/threonine dehydratase
+S,A3,White,KBH785,RA,5203891,T>C,V470A(GTC>GCC),PA14_RS23820>,outer membrane porin OprD family
+S,A3,White,KBH785,RA,5247098,G>A,A49T(GCC>ACC),PA14_RS24030>,hypothetical protein
+S,A3,White,KBH785,RA,5333903,T>C,T100T(ACT>ACC),PA14_RS24440>,TIGR03746 family integrating conjugative element protein
+S,A3,White,KBH785,RA,5466214,G>A,intergenic(+68/â€‘42),PA14_RS25005>/>PA14_RS25010,glycerate dehydrogenase/16S rRNA methyltransferase
+S,A3,White,KBH785,RA,5566754,T>C,T60A(ACC>GCC),PA14_RS25500<,alanine transaminase
+S,A3,White,KBH785,RA,5596224,G>A,G395G(GGC>GGT),pnp<,polyribonucleotide nucleotidyltransferase
+S,A3,White,KBH785,RA,5675752,G>A,G603E(GGG>GAG),fadH>,NADPHâ€‘dependent 24â€‘dienoylâ€‘CoA reductase
+S,A3,White,KBH785,RA,5999670,(C)6>7,coding(2066/2238nt),PA14_RS27425<,hypothetical protein
+S,A3,White,KBH785,RA,6008433,T>C,D100G(GAC>GGC),PA14_RS27450<,glycine betaine/Lâ€‘proline ABC transporter ATPâ€‘binding protein
+S,A3,White,KBH785,RA,6515441,T>C,I115T(ATC>ACC),PA14_RS29785>,MFS transporter
+S,A3,Blue,KBH786,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+S,A3,Blue,KBH786,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+L,B1,White,KBH787,RA,309340,C>T,T41T(ACG>ACA),PA14_RS01390<,XRE family transcriptional regulator
+L,B1,White,KBH787,RA,598446,G>A,E159E(GAG>GAA),PA14_RS02760>,MOSC domainâ€‘containing protein
+L,B1,White,KBH787,RA,1015333,(G)6>7,intergenic(â€‘56/â€‘138),PA14_RS04745</>PA14_RS04750,hypothetical protein/protein kinase
+L,B1,White,KBH787,RA,1119361,A>G,N488S(AAC>AGC),PA14_RS05245>,cytochrome ubiquinol oxidase subunit I
+L,B1,White,KBH787,RA,1372271,(G)6>7,coding(227/1221nt),PA14_RS06450<,alpha/beta hydrolase
+L,B1,White,KBH787,RA,1758616,A>G,T158A(ACG>GCG),PA14_RS08195>,phosphonate metabolism protein PhnP
+L,B1,White,KBH787,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+L,B1,White,KBH787,RA,2927599,T>C,H161R(CAC>CGC),cas6f<,type Iâ€‘F CRISPRâ€‘associated endoribonuclease Cas6/Csy4
+L,B1,White,KBH787,RA,3586290,G>A,R338R(CGC>CGT),PA14_RS16315<,type I secretion system permease/ATPase
+L,B1,White,KBH787,RA,3720273,G>A,R122C(CGT>TGT),PA14_RS16900<,phosphoenolpyruvate synthase
+L,B1,White,KBH787,RA,3913073,T>C,T86A(ACC>GCC),PA14_RS17855<,succinylâ€‘CoA ligase subunit beta
+L,B1,White,KBH787,RA,3918578,T>C,T230A(ACC>GCC),PA14_RS17870<,2â€‘oxoglutarate dehydrogenase subunit E1
+L,B1,White,KBH787,RA,4380835,G>A,S166S(AGC>AGT),PA14_RS20025<,AraC family transcriptional regulator
+L,B1,White,KBH787,RA,4464073,Î”1bp,coding(799/1425nt),PA14_RS20400<,branchedâ€‘chain alphaâ€‘keto acid dehydrogenase subunit E2
+L,B1,White,KBH787,RA,5348824,T>C,Y271Y(TAT>TAC),PA14_RS24515>,ATPâ€‘dependent endonuclease
+L,B1,White,KBH787,RA,5482501,(C)8>9,intergenic(â€‘92/+165),PA14_RS25090</<PA14_RS25095,VOC family protein/hypothetical protein
+L,B1,White,KBH787,RA,5821672,T>C,D467G(GAC>GGC),PA14_RS26710<,DNA mismatch repair protein MutL
+L,B1,White,KBH787,RA,5943657,C>T,intergenic(â€‘114/+111),PA14_RS27165</<PA14_RS27170,glutamate synthase large subunit/hypothetical protein
+L,B1,White,KBH787,RA,6147478,G>A,P107P(CCC>CCT),PA14_RS28090<,iron ABC transporter substrateâ€‘binding protein
+L,B1,White,KBH787,RA,6231409,G>A,S21S(AGC>AGT),PA14_RS28475<,haloacid dehalogenaseâ€‘like hydrolase
+L,B1,Blue,KBH788,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+L,B1,Blue,KBH788,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+L,B1,Blue,KBH788,RA,4664820,C>T,intergenic(â€‘47/+75),PA14_RS21420</<PA14_RS21425,alanineâ€‘â€‘tRNA ligase/lowâ€‘specificity Lâ€‘threonine aldolase
+L,B2,White,KBH789,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+L,B2,White,KBH789,RA,2806514,Î”1bp,coding(386/1254nt),PA14_RS13170<,hypothetical protein
+L,B2,White,KBH789,RA,5510510,T>C,F54L(TTC>CTC),PA14_RS25240>,riboseâ€‘phosphate pyrophosphokinase
+L,B2,Blue,KBH790,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+L,B2,Blue,KBH790,RA,1902912,C>T,D450N(GAC>AAC),PA14_RS08835<,tailâ€‘specific protease
+L,B2,Blue,KBH790,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+L,B2,Blue,KBH790,RA,4664820,C>T,intergenic(â€‘47/+75),PA14_RS21420</<PA14_RS21425,alanineâ€‘â€‘tRNA ligase/lowâ€‘specificity Lâ€‘threonine aldolase
+S,C1,White,KBH791,RA,62601,C>T,R164H(CGC>CAC),PA14_RS00255<,hypothetical protein
+S,C1,White,KBH791,RA,451453,C>T,L50L(CTG>TTG),PA14_RS02100>,twitching motility protein PilT
+S,C1,White,KBH791,RA,464793,C>T,intergenic(+9/â€‘38),PA14_RS02165>/>PA14_RS02170,protein PilG/twoâ€‘component system response regulator
+S,C1,White,KBH791,RA,582163,A>G,V136A(GTT>GCT),PA14_RS02660<,cytochrome c
+S,C1,White,KBH791,RA,603094,(G)7>8,pseudogene(154/250nt),PA14_RS30055>,hypothetical protein
+S,C1,White,KBH791,RA,710785,T>C,V1005A(GTC>GCC),PA14_RS03330>,hypothetical protein
+S,C1,White,KBH791,RA,852381,C>T,S152S(TCG>TCA),PA14_RS04000<,LysR family transcriptional regulator
+S,C1,White,KBH791,RA,1150897,T>C,T143A(ACG>GCG),PA14_RS05385<,DUF4123 domainâ€‘containing protein
+S,C1,White,KBH791,RA,1499278,A>G,D61G(GAC>GGC),PA14_RS07015>,RNA polymerase sigma factor RpoS
+S,C1,White,KBH791,RA,1621732,G>A,E151K(GAG>AAG),PA14_RS07540>,hypothetical protein
+S,C1,White,KBH791,RA,1930797,A>G,G190G(GGT>GGC),PA14_RS08965<,tape measure domainâ€‘containing protein
+S,C1,White,KBH791,RA,2313132,C>T,D129D(GAC>GAT),PA14_RS10750>,hypothetical protein
+S,C1,White,KBH791,RA,2705564,C>T,G29D(GGC>GAC),PA14_RS12725<,ATPase
+S,C1,White,KBH791,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,C1,White,KBH791,RA,2888039,C>T,A642V(GCC>GTC),gcvP>,glycine dehydrogenase (decarboxylating)
+S,C1,White,KBH791,RA,3104312,(G)6>7,coding(320/1452nt),PA14_RS14195>,chitinase
+S,C1,White,KBH791,RA,3482105,T>C,V327A(GTT>GCT),brnQ>,branchedâ€‘chain amino acid transport system 3 carrier protein
+S,C1,White,KBH791,RA,3900634,T>C,F123L(TTC>CTC),PA14_RS17795>,cytochrome c
+S,C1,White,KBH791,RA,4116555,G>A,P158S(CCG>TCG),PA14_RS18775<,helicase UvrD
+S,C1,White,KBH791,RA,4173503,G>A,W237*(TGG>TGA),PA14_RS19045>,lysine decarboxylase
+S,C1,White,KBH791,RA,4221663,G>A,H463Y(CAC>TAC),PA14_RS19265<,TonBâ€‘dependent receptor
+S,C1,White,KBH791,RA,4436587,C>T,P386L(CCG>CTG),PA14_RS20260>,GGDEF domainâ€‘containing protein
+S,C1,White,KBH791,RA,4477230,T>C,Y179C(TAC>TGC),PA14_RS20440<,flagellar hookâ€‘associated protein FlgK
+S,C1,White,KBH791,RA,4500185,C>T,R300R(CGG>CGA),PA14_RS20565<,cysteine synthase
+S,C1,White,KBH791,RA,4542238,T>C,S232G(AGC>GGC),PA14_RS20770<,enoylâ€‘CoA hydratase/isomerase family protein
+S,C1,White,KBH791,RA,4661313,T>C,H230R(CAC>CGC),PA14_RS21415<,aspartokinase
+S,C1,White,KBH791,RA,4721938,A>G,T271A(ACC>GCC),PA14_RS21685>,serine/threonine dehydratase
+S,C1,White,KBH791,RA,4901684,T>C,C166R(TGC>CGC),PA14_RS22495>,glycosyltransferase family 2 protein
+S,C1,White,KBH791,RA,4978638,(C)5>6,coding(150/1470nt),PA14_RS22760>,inorganic phosphate transporter
+S,C1,White,KBH791,RA,5203891,T>C,V470A(GTC>GCC),PA14_RS23820>,outer membrane porin OprD family
+S,C1,White,KBH791,RA,5566754,T>C,T60A(ACC>GCC),PA14_RS25500<,alanine transaminase
+S,C1,White,KBH791,RA,5596224,G>A,G395G(GGC>GGT),pnp<,polyribonucleotide nucleotidyltransferase
+S,C1,White,KBH791,RA,5919961,(C)6>5,coding(877/1743nt),PA14_RS27090>,K+/H+ antiporter NhaP2
+S,C1,White,KBH791,RA,5999670,(C)6>7,coding(2066/2238nt),PA14_RS27425<,hypothetical protein
+S,C1,White,KBH791,RA,6296931,G>A,V36M(GTG>ATG),PA14_RS28790>,transcriptional regulator GlcC
+S,C1,Blue,KBH792,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,C3,White,KBH793,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,C3,White,KBH793,RA,5809310,(C)5>4,intergenic(â€‘196/+23),PA14_RS26645</<PA14_RS26650,30S ribosomal protein S6/23S rRNA (guanosine(2251)â€‘2'â€‘O)â€‘methyltransferase RlmB
+S,C3,Blue,KBH794,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,C3,Blue,KBH795,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+S,C3,Blue,KBH795,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,C3,Blue,KBH795,RA,4664820,C>T,intergenic(â€‘47/+75),PA14_RS21420</<PA14_RS21425,alanineâ€‘â€‘tRNA ligase/lowâ€‘specificity Lâ€‘threonine aldolase
+L,D1,White,KBH796,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+L,D1,White,KBH797,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+L,D1,White,KBH797,RA,1970460,C>G,V54L(GTC>CTC),PA14_RS09180<,hypothetical protein
+L,D1,White,KBH797,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+L,D1,White,KBH797,RA,5510645,C>T,R99C(CGC>TGC),PA14_RS25240>,riboseâ€‘phosphate pyrophosphokinase
+L,D1,Blue,KBH798,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+L,D1,Blue,KBH798,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+L,D1,Blue,KBH798,RA,4661130,T>A,E291V(GAA>GTA),PA14_RS21415<,aspartokinase
+L,D2,White,KBH799,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+L,D2,White,KBH799,RA,2655531,C>T,M1V(GTG>GTA)â€ ,PA14_RS30390<,response regulator GacA
+L,D2,White,KBH799,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+L,D2,White,KBH799,RA,3673536,T>C,intergenic(+85/+13),PA14_RS16685>/<PA14_RS16690,enoylâ€‘ACP reductase/peptidylâ€‘prolyl cisâ€‘trans isomerase
+L,D2,Blue,KBH800,RA,2655531,C>T,M1V(GTG>GTA)â€ ,PA14_RS30390<,response regulator GacA
+L,D2,Blue,KBH800,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,G1,White,KBH801,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,G1,Blue,KBH802,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+L,F1,White,KBH803,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+L,F1,white,KBH803,RA,5510360,A>G,M4V(ATG>GTG),PA14_RS25240>,riboseâ€‘phosphate pyrophosphokinase
+L,F1,blue,KBH804,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+L,F1,blue,KBH804,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+L,F1,blue,KBH804,RA,4664820,C>T,intergenic(â€‘47/+75),PA14_RS21420</<PA14_RS21425,alanineâ€‘â€‘tRNA ligase/lowâ€‘specificity Lâ€‘threonine aldolase
+s,E2,white,KBH805,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+s,E2,blue,KBH806,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+s,G3,white,KBH807,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,G3,blue,KBH808,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+S,G3,blue,KBH808,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,G3,blue,KBH808,RA,6243273,G>A,A171V(GCA>GTA),PA14_RS28520<,transcriptional regulator
+L,H1,White,KBH809,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+L,H1,White,KBH809,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+L,H1,Blue,KBH810,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,G3,White,KBH811,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,G3,White,KBH811,MCJC,6243624,Î”10bp,coding(152â€‘161/549nt),PA14_RS28520<,transcriptional regulator
+L,F1,White,KBH812,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+L,F1,White,KBH812,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+L,FQ,White,KBH812,RA,5510360,A>G,M4V(ATG>GTG),PA14_RS25240>,riboseâ€‘phosphate pyrophosphokinase
+S,G1,White,KBH813,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,G1,Blue,KBH814,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+S,G1,Blue,KBH814,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,G1,Blue,KBH814,RA,6243720,G>T,A22D(GCC>GAC),PA14_RS28520<,transcriptional regulator
+L,D1,White,KBH815,RA,516929,C>T,G84D(GGC>GAC),PA14_RS02355<,acylâ€‘CoA dehydrogenase
+L,D1,White,KBH815,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+L,D1,White,KBH815,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+L,D1,Blue,KBH816,RA,1461102,C>T,R265H(CGC>CAC),PA14_RS06835<,bifunctional uridylyltransferase/uridylylâ€‘removing protein
+L,D1,Blue,KBH816,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+L,D1,Blue,KBH817,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+L,D1,Blue,KBH817,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+L,D1,Blue,KBH817,RA,5809310,(C)5>4,intergenic(â€‘196/+23),PA14_RS26645</<PA14_RS26650,30S ribosomal protein S6/23S rRNA (guanosine(2251)â€‘2'â€‘O)â€‘methyltransferase RlmB
+L,B1,White,KBH818,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+L,B1,White,KBH819,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+L,B1,White,KBH819,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+L,B1,Blue,KBH820,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+L,B1,Blue,KBH821,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,A3,White,KBH822,RA,62601,C>T,R164H(CGC>CAC),PA14_RS00255<,hypothetical protein
+S,A3,White,KBH822,RA,215412,T>C,D49G(GAC>GGC),PA14_RS00965<,LysR family transcriptional regulator
+S,A3,White,KBH822,RA,464793,C>T,intergenic(+9/â€‘38),PA14_RS02165>/>PA14_RS02170,protein PilG/twoâ€‘component system response regulator
+S,A3,White,KBH822,RA,494777,(G)7>6,intergenic(â€‘221/+30),PA14_RS02265</<PA14_RS02270,DEAD/DEAH box helicase/hypothetical protein
+S,A3,White,KBH822,RA,554594,C>T,T43I(ACC>ATC),PA14_RS02530>,hypothetical protein
+S,A3,White,KBH822,RA,582163,A>G,V136A(GTT>GCT),PA14_RS02660<,cytochrome c
+S,A3,White,KBH822,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+S,A3,White,KBH822,RA,1150897,T>C,T143A(ACG>GCG),PA14_RS05385<,DUF4123 domainâ€‘containing protein
+S,A3,White,KBH822,RA,1184510,A>G,T302A(ACC>GCC),PA14_RS05545>,nitrate reductase subunit alpha
+S,A3,White,KBH822,RA,1284091,C>T,intergenic(â€‘26/â€‘95),PA14_RS06030</>PA14_RS06035,cysteine hydrolase/transcriptional regulator
+S,A3,White,KBH822,RA,1597872,A>G,V103A(GTC>GCC),PA14_RS07445<,ABC transporter ATPâ€‘binding protein
+S,A3,White,KBH822,RA,1985315,(A)5>6,intergenic(+104/â€‘11),PA14_RS09270>/>PA14_RS09275,hypothetical protein/DUF1289 domainâ€‘containing protein
+S,A3,White,KBH822,RA,2101940,C>T,A204V(GCC>GTC),PA14_RS09805>,NAD kinase
+S,A3,White,KBH822,RA,2595642,C>T,pseudogene(24/1350nt),PA14_RS12215<,NADHâ€‘quinone oxidoreductase subunit F
+S,A3,White,KBH822,RA,2705564,C>T,G29D(GGC>GAC),PA14_RS12725<,ATPase
+S,A3,White,KBH822,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,A3,White,KBH822,RA,2888039,C>T,A642V(GCC>GTC),gcvP>,glycine dehydrogenase (decarboxylating)
+S,A3,White,KBH822,RA,3302242,T>C,F163L(TTC>CTC),PA14_RS15090>,phosphoadenosine phosphosulfate reductase
+S,A3,White,KBH822,RA,3347653,T>C,L66P(CTG>CCG),PA14_RS15305>,amino acid permease
+S,A3,White,KBH822,RA,3482105,T>C,V327A(GTT>GCT),brnQ>,branchedâ€‘chain amino acid transport system 3 carrier protein
+S,A3,White,KBH822,RA,3815208,G>A,F178F(TTC>TTT),PA14_RS17425<,type VI secretion system membrane subunit TssM
+S,A3,White,KBH822,RA,4068306,A>G,V123A(GTG>GCG),fliR<,flagellar type III secretion system protein FliR
+S,A3,White,KBH822,RA,4436587,C>T,P386L(CCG>CTG),PA14_RS20260>,GGDEF domainâ€‘containing protein
+S,A3,White,KBH822,RA,4542238,T>C,S232G(AGC>GGC),PA14_RS20770<,enoylâ€‘CoA hydratase/isomerase family protein
+S,A3,White,KBH822,RA,4721938,A>G,T271A(ACC>GCC),PA14_RS21685>,serine/threonine dehydratase
+S,A3,White,KBH822,RA,5203891,T>C,V470A(GTC>GCC),PA14_RS23820>,outer membrane porin OprD family
+S,A3,White,KBH822,RA,5247098,G>A,A49T(GCC>ACC),PA14_RS24030>,hypothetical protein
+S,A3,White,KBH822,RA,5333903,T>C,T100T(ACT>ACC),PA14_RS24440>,TIGR03746 family integrating conjugative element protein
+S,A3,White,KBH822,RA,5566754,T>C,T60A(ACC>GCC),PA14_RS25500<,alanine transaminase
+S,A3,White,KBH822,RA,5596224,G>A,G395G(GGC>GGT),pnp<,polyribonucleotide nucleotidyltransferase
+S,A3,White,KBH822,RA,5675752,G>A,G603E(GGG>GAG),fadH>,NADPHâ€‘dependent 24â€‘dienoylâ€‘CoA reductase
+S,A3,White,KBH822,RA,5999670,(C)6>7,coding(2066/2238nt),PA14_RS27425<,hypothetical protein
+S,A3,White,KBH822,RA,6515441,T>C,I115T(ATC>ACC),PA14_RS29785>,MFS transporter
+S,A3,White,KBH823,RA,62601,C>T,R164H(CGC>CAC),PA14_RS00255<,hypothetical protein
+S,A3,White,KBH823,RA,215412,T>C,D49G(GAC>GGC),PA14_RS00965<,LysR family transcriptional regulator
+S,A3,White,KBH823,RA,464793,C>T,intergenic(+9/â€‘38),PA14_RS02165>/>PA14_RS02170,protein PilG/twoâ€‘component system response regulator
+S,A3,White,KBH823,RA,494777,(G)7>6,intergenic(â€‘221/+30),PA14_RS02265</<PA14_RS02270,DEAD/DEAH box helicase/hypothetical protein
+S,A3,White,KBH823,RA,582163,A>G,V136A(GTT>GCT),PA14_RS02660<,cytochrome c
+S,A3,White,KBH823,RA,1150897,T>C,T143A(ACG>GCG),PA14_RS05385<,DUF4123 domainâ€‘containing protein
+S,A3,White,KBH823,RA,1184510,A>G,T302A(ACC>GCC),PA14_RS05545>,nitrate reductase subunit alpha
+S,A3,White,KBH823,RA,1597872,A>G,V103A(GTC>GCC),PA14_RS07445<,ABC transporter ATPâ€‘binding protein
+S,A3,White,KBH823,RA,1985315,(A)5>6,intergenic(+104/â€‘11),PA14_RS09270>/>PA14_RS09275,hypothetical protein/DUF1289 domainâ€‘containing protein
+S,A3,White,KBH823,RA,2101940,C>T,A204V(GCC>GTC),PA14_RS09805>,NAD kinase
+S,A3,White,KBH823,RA,2223465,A>G,S393G(AGC>GGC),PA14_RS10305>,lipoproteinâ€‘releasing system transmembrane subunit LolC
+S,A3,White,KBH823,RA,2705564,C>T,G29D(GGC>GAC),PA14_RS12725<,ATPase
+S,A3,White,KBH823,RA,2710532,C>T,intergenic(+272/+140),PA14_RS30405>/<PA14_RS12760,hypothetical protein/hypothetical protein
+S,A3,White,KBH823,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,A3,White,KBH823,RA,2888039,C>T,A642V(GCC>GTC),gcvP>,glycine dehydrogenase (decarboxylating)
+S,A3,White,KBH823,RA,3172690,C>T,V620M(GTG>ATG),PA14_RS14510<,biofilm formation protein PslE
+S,A3,White,KBH823,RA,3302242,T>C,F163L(TTC>CTC),PA14_RS15090>,phosphoadenosine phosphosulfate reductase
+S,A3,White,KBH823,RA,3347653,T>C,L66P(CTG>CCG),PA14_RS15305>,amino acid permease
+S,A3,White,KBH823,RA,3482105,T>C,V327A(GTT>GCT),brnQ>,branchedâ€‘chain amino acid transport system 3 carrier protein
+S,A3,White,KBH823,RA,4068306,A>G,V123A(GTG>GCG),fliR<,flagellar type III secretion system protein FliR
+S,A3,White,KBH823,RA,4153674,G>A,R22C(CGT>TGT),PA14_RS18935<,NAD(P)/FADâ€‘dependent oxidoreductase
+S,A3,White,KBH823,RA,4436587,C>T,P386L(CCG>CTG),PA14_RS20260>,GGDEF domainâ€‘containing protein
+S,A3,White,KBH823,RA,4542238,T>C,S232G(AGC>GGC),PA14_RS20770<,enoylâ€‘CoA hydratase/isomerase family protein
+S,A3,White,KBH823,RA,4636622,C>T,A273V(GCG>GTG),PA14_RS21275>,hybrid sensor histidine kinase/response regulator
+S,A3,White,KBH823,RA,4721938,A>G,T271A(ACC>GCC),PA14_RS21685>,serine/threonine dehydratase
+S,A3,White,KBH823,RA,5203891,T>C,V470A(GTC>GCC),PA14_RS23820>,outer membrane porin OprD family
+S,A3,White,KBH823,RA,5247098,G>A,A49T(GCC>ACC),PA14_RS24030>,hypothetical protein
+S,A3,White,KBH823,RA,5333903,T>C,T100T(ACT>ACC),PA14_RS24440>,TIGR03746 family integrating conjugative element protein
+S,A3,White,KBH823,RA,5566754,T>C,T60A(ACC>GCC),PA14_RS25500<,alanine transaminase
+S,A3,White,KBH823,RA,5596224,G>A,G395G(GGC>GGT),pnp<,polyribonucleotide nucleotidyltransferase
+S,A3,White,KBH823,RA,5675752,G>A,G603E(GGG>GAG),fadH>,NADPHâ€‘dependent 24â€‘dienoylâ€‘CoA reductase
+S,A3,White,KBH823,RA,5999670,(C)6>7,coding(2066/2238nt),PA14_RS27425<,hypothetical protein
+S,A3,White,KBH823,RA,6515441,T>C,I115T(ATC>ACC),PA14_RS29785>,MFS transporter
+S,A3,Blue,KBH824,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+L,F6,,KBH1,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+L,F6,,KBH1,RA,1406804,A>T,N387I(AAC>ATC),PA14_RS06585>,methylâ€‘accepting chemotaxis protein
+L,F6,,KBH1,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,A6,,KBH2,RA,1406633,C>T,T330I(ACT>ATT),PA14_RS06585>,methylâ€‘accepting chemotaxis protein
+S,A6,,KBH2,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,A6,,KBH3,RA,1406633,C>T,T330I(ACT>ATT),PA14_RS06585>,methylâ€‘accepting chemotaxis protein
+S,A6,,KBH3,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,C6,,KBH4,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+S,C6,,KBH4,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,A6,,KBH7,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+S,A6,,KBH7,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,A6,,KBH7,RA,4353205,A>G,intergenic(â€‘46/â€‘82),PA14_RS19910</>PA14_RS30755,DNAâ€‘binding protein/hypothetical protein
+S,A6,,KBH7,RA,4353224,T>C,intergenic(â€‘65/â€‘63),PA14_RS19910</>PA14_RS30755,DNAâ€‘binding protein/hypothetical protein
+S,A6,,KBH7,RA,4353261,T>C,intergenic(â€‘102/â€‘26),PA14_RS19910</>PA14_RS30755,DNAâ€‘binding protein/hypothetical protein
+S,A6,,KBH8,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+S,A6,,KBH8,RA,1406633,C>T,T330I(ACT>ATT),PA14_RS06585>,methylâ€‘accepting chemotaxis protein
+S,A6,,KBH8,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,A6,,KBH8,RA,4353224,T>C,intergenic(â€‘65/â€‘63),PA14_RS19910</>PA14_RS30755,DNAâ€‘binding protein/hypothetical protein
+S,A6,,KBH8,RA,4353261,T>C,intergenic(â€‘102/â€‘26),PA14_RS19910</>PA14_RS30755,DNAâ€‘binding protein/hypothetical protein
+S,E4,,KBH9,RA,1407079,C>T,P479S(CCG>TCG),PA14_RS06585>,methylâ€‘accepting chemotaxis protein
+S,E4,,KBH9,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,E4,,KBH10,RA,732660,G>A,intergenic(+114/â€‘426),PA14_RS03445>/>PA14_RS03450,Tyrosineâ€‘â€‘tRNA ligase 2/16S ribosomal RNA
+S,E4,,KBH10,RA,1407079,C>T,P479S(CCG>TCG),PA14_RS06585>,methylâ€‘accepting chemotaxis protein
+S,E4,,KBH10,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,C5,,KBH11,RA,62601,C>T,R164H(CGC>CAC),PA14_RS00255<,hypothetical protein
+S,C5,,KBH11,RA,87367,A>G,V126A(GTG>GCG),PA14_RS00375<,serine/threonine protein kinase
+S,C5,,KBH11,RA,582163,A>G,V136A(GTT>GCT),PA14_RS02660<,cytochrome c
+S,C5,,KBH11,RA,676078,C>T,N168N(AAC>AAT),PA14_RS03135>,DNAâ€‘binding response regulator
+S,C5,,KBH11,RA,1412886,C>T,Q282*(CAG>TAG),PA14_RS06610>,chemotaxis response regulator proteinâ€‘glutamate methylesterase
+S,C5,,KBH11,RA,2012869,G>A,P155S(CCG>TCG),PA14_RS09405<,Nâ€‘ethylammeline chlorohydrolase
+S,C5,,KBH11,RA,2030092,(G)7>8,coding(792/1269nt),PA14_RS09470>,UDPâ€‘Nâ€‘acetylâ€‘Dâ€‘mannosamine dehydrogenase
+S,C5,,KBH11,RA,2705564,C>T,G29D(GGC>GAC),PA14_RS12725<,ATPase
+S,C5,,KBH11,RA,2888039,C>T,A642V(GCC>GTC),gcvP>,glycine dehydrogenase (decarboxylating)
+S,C5,,KBH11,RA,3827509,G>A,S22S(AGC>AGT),PA14_RS17475<,type VI secretion system baseplate subunit TssE
+S,C5,,KBH11,RA,4542238,T>C,S232G(AGC>GGC),PA14_RS20770<,enoylâ€‘CoA hydratase/isomerase family protein
+S,C5,,KBH11,RA,4721938,A>G,T271A(ACC>GCC),PA14_RS21685>,serine/threonine dehydratase
+S,C5,,KBH11,RA,4744356,C>T,G134E(GGG>GAG),PA14_RS21780<,MBL fold metalloâ€‘hydrolase
+S,C5,,KBH11,RA,5203891,T>C,V470A(GTC>GCC),PA14_RS23820>,outer membrane porin OprD family
+S,C5,,KBH11,RA,5566754,T>C,T60A(ACC>GCC),PA14_RS25500<,alanine transaminase
+S,C5,,KBH11,RA,5596224,G>A,G395G(GGC>GGT),pnp<,polyribonucleotide nucleotidyltransferase
+S,C5,,KBH11,RA,5809313,(C)8>7,intergenic(â€‘199/+20),PA14_RS26645</<PA14_RS26650,30S ribosomal protein S6/23S rRNA (guanosine(2251)â€‘2'â€‘O)â€‘methyltransferase RlmB
+S,C5,,KBH11,RA,5923883,G>A,V989I(GTC>ATC),PA14_RS27095>,mechanosensitive channel MscK
+S,C5,,KBH11,RA,5999670,(C)6>7,coding(2066/2238nt),PA14_RS27425<,hypothetical protein
+S,C5,,KBH12,RA,62601,C>T,R164H(CGC>CAC),PA14_RS00255<,hypothetical protein
+S,C5,,KBH12,RA,87367,A>G,V126A(GTG>GCG),PA14_RS00375<,serine/threonine protein kinase
+S,C5,,KBH12,RA,464793,C>T,intergenic(+9/â€‘38),PA14_RS02165>/>PA14_RS02170,protein PilG/twoâ€‘component system response regulator
+S,C5,,KBH12,RA,582163,A>G,V136A(GTT>GCT),PA14_RS02660<,cytochrome c
+S,C5,,KBH12,RA,676078,C>T,N168N(AAC>AAT),PA14_RS03135>,DNAâ€‘binding response regulator
+S,C5,,KBH12,RA,1150897,T>C,T143A(ACG>GCG),PA14_RS05385<,DUF4123 domainâ€‘containing protein
+S,C5,,KBH12,RA,1412886,C>T,Q282*(CAG>TAG),PA14_RS06610>,chemotaxis response regulator proteinâ€‘glutamate methylesterase
+S,C5,,KBH12,RA,1520618,C>T,G376D(GGC>GAC),PA14_RS07115<,FMNâ€‘binding glutamate synthase family protein
+S,C5,,KBH12,RA,1899774,G>A,A102T(GCT>ACT),PA14_RS08820>,hypothetical protein
+S,C5,,KBH12,RA,2012869,G>A,P155S(CCG>TCG),PA14_RS09405<,Nâ€‘ethylammeline chlorohydrolase
+S,C5,,KBH12,RA,2030092,(G)7>8,coding(792/1269nt),PA14_RS09470>,UDPâ€‘Nâ€‘acetylâ€‘Dâ€‘mannosamine dehydrogenase
+S,C5,,KBH12,RA,2705564,C>T,G29D(GGC>GAC),PA14_RS12725<,ATPase
+S,C5,,KBH12,RA,2787820,#NAME?,pseudogene(964/3156nt),PA14_RS13085>,CusA/CzcA family heavy metal efflux RND transporter
+S,C5,,KBH12,RA,2888039,C>T,A642V(GCC>GTC),gcvP>,glycine dehydrogenase (decarboxylating)
+S,C5,,KBH12,RA,3827509,G>A,S22S(AGC>AGT),PA14_RS17475<,type VI secretion system baseplate subunit TssE
+S,C5,,KBH12,RA,4436587,C>T,P386L(CCG>CTG),PA14_RS20260>,GGDEF domainâ€‘containing protein
+S,C5,,KBH12,RA,4542238,T>C,S232G(AGC>GGC),PA14_RS20770<,enoylâ€‘CoA hydratase/isomerase family protein
+S,C5,,KBH12,RA,4721938,A>G,T271A(ACC>GCC),PA14_RS21685>,serine/threonine dehydratase
+S,C5,,KBH12,RA,4744356,C>T,G134E(GGG>GAG),PA14_RS21780<,MBL fold metalloâ€‘hydrolase
+S,C5,,KBH12,RA,4787272,(C)12>11,coding(16/1188nt),prpF>,2â€‘methylaconitate cisâ€‘trans isomerase PrpF
+S,C5,,KBH12,RA,5203891,T>C,V470A(GTC>GCC),PA14_RS23820>,outer membrane porin OprD family
+S,C5,,KBH12,RA,5566754,T>C,T60A(ACC>GCC),PA14_RS25500<,alanine transaminase
+S,C5,,KBH12,RA,5596224,G>A,G395G(GGC>GGT),pnp<,polyribonucleotide nucleotidyltransferase
+S,C5,,KBH12,RA,5711796,C>T,A409A(GCC>GCT),PA14_RS26190>,proteinâ€‘disulfide reductase DsbD
+S,C5,,KBH12,RA,5923883,G>A,V989I(GTC>ATC),PA14_RS27095>,mechanosensitive channel MscK
+S,C5,,KBH12,RA,5949942,G>A,R169W(CGG>TGG),PA14_RS27195<,pilus assembly protein PilP
+S,C5,,KBH12,RA,5999670,(C)6>7,coding(2066/2238nt),PA14_RS27425<,hypothetical protein
+S,C5,,KBH12,RA,6473622,A>G,H273R(CAC>CGC),PA14_RS29585>,glutamine synthetase
